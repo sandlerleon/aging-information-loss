@@ -1,0 +1,50 @@
+{
+ "V1_reproduces_earlier_nominal_results": {
+  "passed": true,
+  "detail": "untreated I(75) = 0.5961, muscle loss 0.161, glucose rise 0.496, optimum u = 0.40, SIM-based metabolic age at the optimum 67.0, I(75) range 0.5762-0.6190 (earlier manuscript: 0.60, ~0.16, ~0.50, 0.40, ~67, 0.575-0.62)"
+ },
+ "V2_RK4_against_LSODA": {
+  "passed": true,
+  "detail": "largest difference of the final state over five doses: 6.5e-10 (LSODA rtol 1e-10)"
+ },
+ "V2b_compiled_integrator_equals_NumPy_reference": {
+  "passed": true,
+  "detail": "1500 random parameter sets and doses, 9 functional-form combinations and the adiposity penalty: largest difference of the final state 0.0e+00"
+ },
+ "V3_step_size_convergence": {
+  "passed": true,
+  "detail": "I(75) at u = 0.4 for dt = 0.25, 0.125, 0.0625 yr: 0.576183658, 0.576183658, 0.576183658; adopted dt = 0.125, change from halving 2.8e-11"
+ },
+ "V4a_information_loss_bounded_monotone": {
+  "passed": true,
+  "detail": "3000 random parameter sets (wide prior): I in [0.100, 1.000]; smallest step change 1.4e-12 (non-negative)"
+ },
+ "V4b_muscle_and_storage_positive": {
+  "passed": true,
+  "detail": "M in [0.003, 1.000]; F minimum 0.007"
+ },
+ "V5_channel_decomposition_sums_to_total_derivative": {
+  "passed": true,
+  "detail": "largest |sum of channel derivatives - derivative of I(T) along the common dose| over 76 doses: 3.5e-07 (nominal), 3.9e-05 (with adiposity penalty)"
+ },
+ "V6_adiposity_penalty_scaling": {
+  "passed": true,
+  "detail": "at the untreated age-75 state of the model with r_f = 0 the fat penalty (1.040e-03) equals psi times the muscle penalty (1.040e-03) for psi = 1; psi = 0 gives r_f = 0"
+ },
+ "V7_sobol_estimator_on_Ishigami": {
+  "passed": true,
+  "detail": "N = 8192: largest error of first-order indices 0.002, of total indices 0.000 (exact values 0.314, 0.442, 0 and 0.558, 0.442, 0.244)"
+ },
+ "V8_fisher_information_step_independence": {
+  "passed": true,
+  "detail": "largest relative difference between information matrices from steps 1e-3 and 1e-4: 6.6e-08"
+ },
+ "V9_dose_grid_resolution": {
+  "passed": true,
+  "detail": "classification with 41 doses agrees with 201 doses in 99.7% of 600 random parameter sets (fractions 0.578 and 0.582)"
+ },
+ "V10_ensemble_reproducible": {
+  "passed": true,
+  "detail": "re-running the N = 6000 ensemble with its seed gives 0.576000, stored 0.576000"
+ }
+}

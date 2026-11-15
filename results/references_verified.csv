@@ -1,0 +1,47 @@
+key,doi,first_author,year,title,journal,status
+Yang2023,10.1016/j.cell.2022.12.027,Yang,2023,Loss of epigenetic information as a cause of mammalian aging,Cell,ok
+Levine2018,10.18632/aging.101414,Levine,2018,An epigenetic biomarker of aging for lifespan and healthspan,Aging,ok
+Horvath2013,10.1186/gb-2013-14-10-r115,Horvath,2013,DNA methylation age of human tissues and cell types,Genome Biology,ok
+Hannum2013,10.1016/j.molcel.2012.10.016,Hannum,2013,Genome-wide Methylation Profiles Reveal Quantitative Views of Human Aging Rates,Molecular Cell,ok
+Lu2023,10.1038/s43587-023-00462-6,Lu,2023,Universal DNA methylation age across mammalian tissues,Nature Aging,ok
+Bell2019,10.1186/s13059-019-1824-y,Bell,2019,DNA methylation aging clocks: challenges and recommendations,Genome Biology,ok
+LopezOtin2023,10.1016/j.cell.2022.11.001,López-Otín,2023,Hallmarks of aging: An expanding universe,Cell,ok
+Wilding2021,10.1056/NEJMoa2032183,Wilding,2021,Once-Weekly Semaglutide in Adults with Overweight or Obesity,New England Journal of Medicine,ok
+Jastreboff2022,10.1056/NEJMoa2206038,Jastreboff,2022,Tirzepatide Once Weekly for the Treatment of Obesity,New England Journal of Medicine,ok
+Sargeant2019,10.3803/EnM.2019.34.3.247,Sargeant,2019,A Review of the Effects of Glucagon-Like Peptide-1 Receptor Agonists and Sodium-Glucose Cotransporter 2 Inhibitors on Lean Body Mass in Humans,Endocrinology and Metabolism,ok
+Neeland2024,10.1111/dom.15728,Neeland,2024,Changes in lean body mass with                     <scp>glucagon‐like peptide</scp>                     ‐1‐based therapies and mitigation strategies,"Diabetes, Obesity and Metabolism",ok
+Cruz2019,10.1093/ageing/afy169,Cruz-Jentoft,2019,Sarcopenia: revised European consensus on definition and diagnosis,Age and Ageing,ok
+Srikanthan2014,10.1016/j.amjmed.2014.02.007,Srikanthan,2014,Muscle Mass Index As a Predictor of Longevity in Older Adults,The American Journal of Medicine,ok
+Srikanthan2010,10.1371/journal.pone.0010805,Srikanthan,2010,Sarcopenia Exacerbates Obesity-Associated Insulin Resistance and Dysglycemia: Findings from the National Health and Nutrition Examination Survey III,PLoS ONE,ok
+DeFronzo2009,10.2337/dc09-S302,DeFronzo,2009,Skeletal Muscle Insulin Resistance Is the Primary Defect in Type 2 Diabetes,Diabetes Care,ok
+Wolfe2006,10.1093/ajcn/84.3.475,Wolfe,2006,The underappreciated role of muscle in health and disease,The American Journal of Clinical Nutrition,ok
+Brownlee2001,10.1038/414813a,Brownlee,2001,Biochemistry and molecular cell biology of diabetic complications,Nature,ok
+Hotamisligil2006,10.1038/nature05485,Hotamisligil,2006,Inflammation and metabolic disorders,Nature,ok
+Tchkonia2010,10.1111/j.1474-9726.2010.00608.x,Tchkonia,2010,"Fat tissue, aging, and cellular senescence",Aging Cell,ok
+Batsis2018,10.1038/s41574-018-0062-9,Batsis,2018,"Sarcopenic obesity in older adults: aetiology, epidemiology and treatment strategies",Nature Reviews Endocrinology,ok
+Heymsfield2021,10.1001/jamanetworkopen.2020.33457,Heymsfield,2021,Effect of Bimagrumab vs Placebo on Body Fat Mass Among Adults With Type 2 Diabetes and Obesity,JAMA Network Open,ok
+Barzilai2016,10.1016/j.cmet.2016.05.011,Barzilai,2016,Metformin as a Tool to Target Aging,Cell Metabolism,ok
+Simental2008,10.1089/met.2008.0034,Simental-Mendía,2008,The Product of Fasting Glucose and Triglycerides As Surrogate for Identifying Insulin Resistance in Apparently Healthy Subjects,Metabolic Syndrome and Related Disorders,ok
+Bergman1979,10.1152/ajpendo.1979.236.6.E667,Bergman,1979,Quantitative estimation of insulin sensitivity.,American Journal of Physiology-Endocrinology and Metabolism,ok
+Sobol2001,10.1016/S0378-4754(00)00270-6,Sobol′,2001,Global sensitivity indices for nonlinear mathematical models and their Monte Carlo estimates,Mathematics and Computers in Simulation,ok
+Saltelli2010,10.1016/j.cpc.2009.09.018,Saltelli,2010,Variance based sensitivity analysis of model output. Design and estimator for the total sensitivity index,Computer Physics Communications,ok
+Jansen1999,10.1016/S0010-4655(98)00154-4,Jansen,1999,Analysis of variance designs for model output,Computer Physics Communications,ok
+Marino2008,10.1016/j.jtbi.2008.04.011,Marino,2008,A methodology for performing global uncertainty and sensitivity analysis in systems biology,Journal of Theoretical Biology,ok
+Raue2009,10.1093/bioinformatics/btp358,Raue,2009,Structural and practical identifiability analysis of partially observed dynamical models by exploiting the profile likelihood,Bioinformatics,ok
+Petzold1983,10.1137/0904010,Petzold,1983,Automatic Selection of Methods for Solving Stiff and Nonstiff Systems of Ordinary Differential Equations,SIAM Journal on Scientific and Statistical Computing,ok
+Virtanen2020,10.1038/s41592-019-0686-2,Virtanen,2020,SciPy 1.0: fundamental algorithms for scientific computing in Python,Nature Methods,ok
+Harris2020,10.1038/s41586-020-2649-2,Harris,2020,Array programming with NumPy,Nature,ok
+Hunter2007,10.1109/MCSE.2007.55,Hunter,2007,Matplotlib: A 2D Graphics Environment,Computing in Science &amp; Engineering,ok
+Kirkwood1977,10.1038/270301a0,Kirkwood,1977,Evolution of ageing,Nature,ok
+Hall2011,10.1016/S0140-6736(11)60812-X,Hall,2011,Quantification of the effect of energy imbalance on bodyweight,The Lancet,ok
+Lu2020,10.1038/s41586-020-2975-4,Lu,2020,Reprogramming to recover youthful epigenetic information and restore vision,Nature,ok
+Chan2025,10.18632/aging.206220,Chan,2025,DNA methylation entropy is a biomarker for aging,Aging,ok
+Linge2024,10.1161/circulationaha.124.067676,Linge,2024,Muscle Mass and Glucagon-Like Peptide-1 Receptor Agonists: Adaptive or Maladaptive Response to Weight Loss?,Circulation,ok
+Villareal2011,10.1056/nejmoa1008234,Villareal,2011,"Weight Loss, Exercise, or Both and Physical Function in Obese Older Adults",New England Journal of Medicine,ok
+Zhao2023,10.1038/s41598-023-43512-0,Zhao,2023,Triglyceride glucose index as a predictor of mortality in middle-aged and elderly patients with type 2 diabetes in the US,Scientific Reports,ok
+Fahy2019,10.1111/acel.13028,Fahy,2019,Reversal of epigenetic aging and immunosenescent trends in humans,Aging Cell,ok
+Kennedy2014,10.1016/j.cell.2014.10.039,Kennedy,2014,Geroscience: Linking Aging to Chronic Disease,Cell,ok
+Prado2024,10.1016/S2213-8587(24)00272-9,Prado,2024,Muscle matters: the effects of medically induced weight loss on skeletal muscle,The Lancet Diabetes &amp; Endocrinology,ok
+Kalyani2014,10.1016/s2213-8587(14)70034-8,Kalyani,2014,"Age-related and disease-related muscle loss: the effect of diabetes, obesity, and other diseases",The Lancet Diabetes &amp; Endocrinology,ok
+Heymsfield2014,10.1111/obr.12143,Heymsfield,2014,Weight loss composition is one‐fourth fat‐free mass: a critical review and critique of this widely cited rule,Obesity Reviews,ok
+Topp2000,10.1006/jtbi.2000.2150,TOPP,2000,"A Model of β -Cell Mass, Insulin, and Glucose Kinetics: Pathways to Diabetes",Journal of Theoretical Biology,ok

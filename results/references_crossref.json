@@ -1,0 +1,3404 @@
+{
+ "Yang2023": {
+  "status": "ok",
+  "doi": "10.1016/j.cell.2022.12.027",
+  "title": "Loss of epigenetic information as a cause of mammalian aging",
+  "authors": [
+   [
+    "Yang",
+    "Jae-Hyun"
+   ],
+   [
+    "Hayano",
+    "Motoshi"
+   ],
+   [
+    "Griffin",
+    "Patrick T."
+   ],
+   [
+    "Amorim",
+    "João A."
+   ],
+   [
+    "Bonkowski",
+    "Michael S."
+   ],
+   [
+    "Apostolides",
+    "John K."
+   ],
+   [
+    "Salfati",
+    "Elias L."
+   ],
+   [
+    "Blanchette",
+    "Marco"
+   ],
+   [
+    "Munding",
+    "Elizabeth M."
+   ],
+   [
+    "Bhakta",
+    "Mital"
+   ],
+   [
+    "Chew",
+    "Yap Ching"
+   ],
+   [
+    "Guo",
+    "Wei"
+   ],
+   [
+    "Yang",
+    "Xiaojing"
+   ],
+   [
+    "Maybury-Lewis",
+    "Sun"
+   ],
+   [
+    "Tian",
+    "Xiao"
+   ],
+   [
+    "Ross",
+    "Jaime M."
+   ],
+   [
+    "Coppotelli",
+    "Giuseppe"
+   ],
+   [
+    "Meer",
+    "Margarita V."
+   ],
+   [
+    "Rogers-Hammond",
+    "Ryan"
+   ],
+   [
+    "Vera",
+    "Daniel L."
+   ],
+   [
+    "Lu",
+    "Yuancheng Ryan"
+   ],
+   [
+    "Pippin",
+    "Jeffrey W."
+   ],
+   [
+    "Creswell",
+    "Michael L."
+   ],
+   [
+    "Dou",
+    "Zhixun"
+   ],
+   [
+    "Xu",
+    "Caiyue"
+   ],
+   [
+    "Mitchell",
+    "Sarah J."
+   ],
+   [
+    "Das",
+    "Abhirup"
+   ],
+   [
+    "O’Connell",
+    "Brendan L."
+   ],
+   [
+    "Thakur",
+    "Sachin"
+   ],
+   [
+    "Kane",
+    "Alice E."
+   ],
+   [
+    "Su",
+    "Qiao"
+   ],
+   [
+    "Mohri",
+    "Yasuaki"
+   ],
+   [
+    "Nishimura",
+    "Emi K."
+   ],
+   [
+    "Schaevitz",
+    "Laura"
+   ],
+   [
+    "Garg",
+    "Neha"
+   ],
+   [
+    "Balta",
+    "Ana-Maria"
+   ],
+   [
+    "Rego",
+    "Meghan A."
+   ],
+   [
+    "Gregory-Ksander",
+    "Meredith"
+   ],
+   [
+    "Jakobs",
+    "Tatjana C."
+   ],
+   [
+    "Zhong",
+    "Lei"
+   ],
+   [
+    "Wakimoto",
+    "Hiroko"
+   ],
+   [
+    "El Andari",
+    "Jihad"
+   ],
+   [
+    "Grimm",
+    "Dirk"
+   ],
+   [
+    "Mostoslavsky",
+    "Raul"
+   ],
+   [
+    "Wagers",
+    "Amy J."
+   ],
+   [
+    "Tsubota",
+    "Kazuo"
+   ],
+   [
+    "Bonasera",
+    "Stephen J."
+   ],
+   [
+    "Palmeira",
+    "Carlos M."
+   ],
+   [
+    "Seidman",
+    "Jonathan G."
+   ],
+   [
+    "Seidman",
+    "Christine E."
+   ],
+   [
+    "Wolf",
+    "Norman S."
+   ],
+   [
+    "Kreiling",
+    "Jill A."
+   ],
+   [
+    "Sedivy",
+    "John M."
+   ],
+   [
+    "Murphy",
+    "George F."
+   ],
+   [
+    "Green",
+    "Richard E."
+   ],
+   [
+    "Garcia",
+    "Benjamin A."
+   ],
+   [
+    "Berger",
+    "Shelley L."
+   ],
+   [
+    "Oberdoerffer",
+    "Philipp"
+   ],
+   [
+    "Shankland",
+    "Stuart J."
+   ],
+   [
+    "Gladyshev",
+    "Vadim N."
+   ],
+   [
+    "Ksander",
+    "Bruce R."
+   ],
+   [
+    "Pfenning",
+    "Andreas R."
+   ],
+   [
+    "Rajman",
+    "Luis A."
+   ],
+   [
+    "Sinclair",
+    "David A."
+   ]
+  ],
+  "journal": "Cell",
+  "volume": "186",
+  "issue": "2",
+  "page": "305-326.e27",
+  "article_number": null,
+  "year": 2023,
+  "pub_year": 2023,
+  "type": "journal-article"
+ },
+ "Levine2018": {
+  "status": "ok",
+  "doi": "10.18632/aging.101414",
+  "title": "An epigenetic biomarker of aging for lifespan and healthspan",
+  "authors": [
+   [
+    "Levine",
+    "Morgan E."
+   ],
+   [
+    "Lu",
+    "Ake T."
+   ],
+   [
+    "Quach",
+    "Austin"
+   ],
+   [
+    "Chen",
+    "Brian H."
+   ],
+   [
+    "Assimes",
+    "Themistocles L."
+   ],
+   [
+    "Bandinelli",
+    "Stefania"
+   ],
+   [
+    "Hou",
+    "Lifang"
+   ],
+   [
+    "Baccarelli",
+    "Andrea A."
+   ],
+   [
+    "Stewart",
+    "James D."
+   ],
+   [
+    "Li",
+    "Yun"
+   ],
+   [
+    "Whitsel",
+    "Eric A."
+   ],
+   [
+    "Wilson",
+    "James G"
+   ],
+   [
+    "Reiner",
+    "Alex P"
+   ],
+   [
+    "Aviv",
+    "Abraham"
+   ],
+   [
+    "Lohman",
+    "Kurt"
+   ],
+   [
+    "Liu",
+    "Yongmei"
+   ],
+   [
+    "Ferrucci",
+    "Luigi"
+   ],
+   [
+    "Horvath",
+    "Steve"
+   ]
+  ],
+  "journal": "Aging",
+  "volume": "10",
+  "issue": "4",
+  "page": "573-591",
+  "article_number": null,
+  "year": 2018,
+  "pub_year": 2018,
+  "type": "journal-article"
+ },
+ "Horvath2013": {
+  "status": "ok",
+  "doi": "10.1186/gb-2013-14-10-r115",
+  "title": "DNA methylation age of human tissues and cell types",
+  "authors": [
+   [
+    "Horvath",
+    "Steve"
+   ]
+  ],
+  "journal": "Genome Biology",
+  "volume": "14",
+  "issue": "10",
+  "page": null,
+  "article_number": "3156",
+  "year": 2013,
+  "pub_year": 2013,
+  "type": "journal-article"
+ },
+ "Hannum2013": {
+  "status": "ok",
+  "doi": "10.1016/j.molcel.2012.10.016",
+  "title": "Genome-wide Methylation Profiles Reveal Quantitative Views of Human Aging Rates",
+  "authors": [
+   [
+    "Hannum",
+    "Gregory"
+   ],
+   [
+    "Guinney",
+    "Justin"
+   ],
+   [
+    "Zhao",
+    "Ling"
+   ],
+   [
+    "Zhang",
+    "Li"
+   ],
+   [
+    "Hughes",
+    "Guy"
+   ],
+   [
+    "Sadda",
+    "SriniVas"
+   ],
+   [
+    "Klotzle",
+    "Brandy"
+   ],
+   [
+    "Bibikova",
+    "Marina"
+   ],
+   [
+    "Fan",
+    "Jian-Bing"
+   ],
+   [
+    "Gao",
+    "Yuan"
+   ],
+   [
+    "Deconde",
+    "Rob"
+   ],
+   [
+    "Chen",
+    "Menzies"
+   ],
+   [
+    "Rajapakse",
+    "Indika"
+   ],
+   [
+    "Friend",
+    "Stephen"
+   ],
+   [
+    "Ideker",
+    "Trey"
+   ],
+   [
+    "Zhang",
+    "Kang"
+   ]
+  ],
+  "journal": "Molecular Cell",
+  "volume": "49",
+  "issue": "2",
+  "page": "359-367",
+  "article_number": null,
+  "year": 2013,
+  "pub_year": 2013,
+  "type": "journal-article"
+ },
+ "Lu2023": {
+  "status": "ok",
+  "doi": "10.1038/s43587-023-00462-6",
+  "title": "Universal DNA methylation age across mammalian tissues",
+  "authors": [
+   [
+    "Lu",
+    "A. T."
+   ],
+   [
+    "Fei",
+    "Z."
+   ],
+   [
+    "Haghani",
+    "A."
+   ],
+   [
+    "Robeck",
+    "T. R."
+   ],
+   [
+    "Zoller",
+    "J. A."
+   ],
+   [
+    "Li",
+    "C. Z."
+   ],
+   [
+    "Lowe",
+    "R."
+   ],
+   [
+    "Yan",
+    "Q."
+   ],
+   [
+    "Zhang",
+    "J."
+   ],
+   [
+    "Vu",
+    "H."
+   ],
+   [
+    "Ablaeva",
+    "J."
+   ],
+   [
+    "Acosta-Rodriguez",
+    "V. A."
+   ],
+   [
+    "Adams",
+    "D. M."
+   ],
+   [
+    "Almunia",
+    "J."
+   ],
+   [
+    "Aloysius",
+    "A."
+   ],
+   [
+    "Ardehali",
+    "R."
+   ],
+   [
+    "Arneson",
+    "A."
+   ],
+   [
+    "Baker",
+    "C. S."
+   ],
+   [
+    "Banks",
+    "G."
+   ],
+   [
+    "Belov",
+    "K."
+   ],
+   [
+    "Bennett",
+    "N. C."
+   ],
+   [
+    "Black",
+    "P."
+   ],
+   [
+    "Blumstein",
+    "D. T."
+   ],
+   [
+    "Bors",
+    "E. K."
+   ],
+   [
+    "Breeze",
+    "C. E."
+   ],
+   [
+    "Brooke",
+    "R. T."
+   ],
+   [
+    "Brown",
+    "J. L."
+   ],
+   [
+    "Carter",
+    "G. G."
+   ],
+   [
+    "Caulton",
+    "A."
+   ],
+   [
+    "Cavin",
+    "J. M."
+   ],
+   [
+    "Chakrabarti",
+    "L."
+   ],
+   [
+    "Chatzistamou",
+    "I."
+   ],
+   [
+    "Chen",
+    "H."
+   ],
+   [
+    "Cheng",
+    "K."
+   ],
+   [
+    "Chiavellini",
+    "P."
+   ],
+   [
+    "Choi",
+    "O. W."
+   ],
+   [
+    "Clarke",
+    "S. M."
+   ],
+   [
+    "Cooper",
+    "L. N."
+   ],
+   [
+    "Cossette",
+    "M. L."
+   ],
+   [
+    "Day",
+    "J."
+   ],
+   [
+    "DeYoung",
+    "J."
+   ],
+   [
+    "DiRocco",
+    "S."
+   ],
+   [
+    "Dold",
+    "C."
+   ],
+   [
+    "Ehmke",
+    "E. E."
+   ],
+   [
+    "Emmons",
+    "C. K."
+   ],
+   [
+    "Emmrich",
+    "S."
+   ],
+   [
+    "Erbay",
+    "E."
+   ],
+   [
+    "Erlacher-Reid",
+    "C."
+   ],
+   [
+    "Faulkes",
+    "C. G."
+   ],
+   [
+    "Ferguson",
+    "S. H."
+   ],
+   [
+    "Finno",
+    "C. J."
+   ],
+   [
+    "Flower",
+    "J. E."
+   ],
+   [
+    "Gaillard",
+    "J. M."
+   ],
+   [
+    "Garde",
+    "E."
+   ],
+   [
+    "Gerber",
+    "L."
+   ],
+   [
+    "Gladyshev",
+    "V. N."
+   ],
+   [
+    "Gorbunova",
+    "V."
+   ],
+   [
+    "Goya",
+    "R. G."
+   ],
+   [
+    "Grant",
+    "M. J."
+   ],
+   [
+    "Green",
+    "C. B."
+   ],
+   [
+    "Hales",
+    "E. N."
+   ],
+   [
+    "Hanson",
+    "M. B."
+   ],
+   [
+    "Hart",
+    "D. W."
+   ],
+   [
+    "Haulena",
+    "M."
+   ],
+   [
+    "Herrick",
+    "K."
+   ],
+   [
+    "Hogan",
+    "A. N."
+   ],
+   [
+    "Hogg",
+    "C. J."
+   ],
+   [
+    "Hore",
+    "T. A."
+   ],
+   [
+    "Huang",
+    "T."
+   ],
+   [
+    "Izpisua Belmonte",
+    "J. C."
+   ],
+   [
+    "Jasinska",
+    "A. J."
+   ],
+   [
+    "Jones",
+    "G."
+   ],
+   [
+    "Jourdain",
+    "E."
+   ],
+   [
+    "Kashpur",
+    "O."
+   ],
+   [
+    "Katcher",
+    "H."
+   ],
+   [
+    "Katsumata",
+    "E."
+   ],
+   [
+    "Kaza",
+    "V."
+   ],
+   [
+    "Kiaris",
+    "H."
+   ],
+   [
+    "Kobor",
+    "M. S."
+   ],
+   [
+    "Kordowitzki",
+    "P."
+   ],
+   [
+    "Koski",
+    "W. R."
+   ],
+   [
+    "Krützen",
+    "M."
+   ],
+   [
+    "Kwon",
+    "S. B."
+   ],
+   [
+    "Larison",
+    "B."
+   ],
+   [
+    "Lee",
+    "S. G."
+   ],
+   [
+    "Lehmann",
+    "M."
+   ],
+   [
+    "Lemaitre",
+    "J. F."
+   ],
+   [
+    "Levine",
+    "A. J."
+   ],
+   [
+    "Li",
+    "C."
+   ],
+   [
+    "Li",
+    "X."
+   ],
+   [
+    "Lim",
+    "A. R."
+   ],
+   [
+    "Lin",
+    "D. T. S."
+   ],
+   [
+    "Lindemann",
+    "D. M."
+   ],
+   [
+    "Little",
+    "T. J."
+   ],
+   [
+    "Macoretta",
+    "N."
+   ],
+   [
+    "Maddox",
+    "D."
+   ],
+   [
+    "Matkin",
+    "C. O."
+   ],
+   [
+    "Mattison",
+    "J. A."
+   ],
+   [
+    "McClure",
+    "M."
+   ],
+   [
+    "Mergl",
+    "J."
+   ],
+   [
+    "Meudt",
+    "J. J."
+   ],
+   [
+    "Montano",
+    "G. A."
+   ],
+   [
+    "Mozhui",
+    "K."
+   ],
+   [
+    "Munshi-South",
+    "J."
+   ],
+   [
+    "Naderi",
+    "A."
+   ],
+   [
+    "Nagy",
+    "M."
+   ],
+   [
+    "Narayan",
+    "P."
+   ],
+   [
+    "Nathanielsz",
+    "P. W."
+   ],
+   [
+    "Nguyen",
+    "N. B."
+   ],
+   [
+    "Niehrs",
+    "C."
+   ],
+   [
+    "O’Brien",
+    "J. K."
+   ],
+   [
+    "O’Tierney Ginn",
+    "P."
+   ],
+   [
+    "Odom",
+    "D. T."
+   ],
+   [
+    "Ophir",
+    "A. G."
+   ],
+   [
+    "Osborn",
+    "S."
+   ],
+   [
+    "Ostrander",
+    "E. A."
+   ],
+   [
+    "Parsons",
+    "K. M."
+   ],
+   [
+    "Paul",
+    "K. C."
+   ],
+   [
+    "Pellegrini",
+    "M."
+   ],
+   [
+    "Peters",
+    "K. J."
+   ],
+   [
+    "Pedersen",
+    "A. B."
+   ],
+   [
+    "Petersen",
+    "J. L."
+   ],
+   [
+    "Pietersen",
+    "D. W."
+   ],
+   [
+    "Pinho",
+    "G. M."
+   ],
+   [
+    "Plassais",
+    "J."
+   ],
+   [
+    "Poganik",
+    "J. R."
+   ],
+   [
+    "Prado",
+    "N. A."
+   ],
+   [
+    "Reddy",
+    "P."
+   ],
+   [
+    "Rey",
+    "B."
+   ],
+   [
+    "Ritz",
+    "B. R."
+   ],
+   [
+    "Robbins",
+    "J."
+   ],
+   [
+    "Rodriguez",
+    "M."
+   ],
+   [
+    "Russell",
+    "J."
+   ],
+   [
+    "Rydkina",
+    "E."
+   ],
+   [
+    "Sailer",
+    "L. L."
+   ],
+   [
+    "Salmon",
+    "A. B."
+   ],
+   [
+    "Sanghavi",
+    "A."
+   ],
+   [
+    "Schachtschneider",
+    "K. M."
+   ],
+   [
+    "Schmitt",
+    "D."
+   ],
+   [
+    "Schmitt",
+    "T."
+   ],
+   [
+    "Schomacher",
+    "L."
+   ],
+   [
+    "Schook",
+    "L. B."
+   ],
+   [
+    "Sears",
+    "K. E."
+   ],
+   [
+    "Seifert",
+    "A. W."
+   ],
+   [
+    "Seluanov",
+    "A."
+   ],
+   [
+    "Shafer",
+    "A. B. A."
+   ],
+   [
+    "Shanmuganayagam",
+    "D."
+   ],
+   [
+    "Shindyapina",
+    "A. V."
+   ],
+   [
+    "Simmons",
+    "M."
+   ],
+   [
+    "Singh",
+    "K."
+   ],
+   [
+    "Sinha",
+    "I."
+   ],
+   [
+    "Slone",
+    "J."
+   ],
+   [
+    "Snell",
+    "R. G."
+   ],
+   [
+    "Soltanmaohammadi",
+    "E."
+   ],
+   [
+    "Spangler",
+    "M. L."
+   ],
+   [
+    "Spriggs",
+    "M. C."
+   ],
+   [
+    "Staggs",
+    "L."
+   ],
+   [
+    "Stedman",
+    "N."
+   ],
+   [
+    "Steinman",
+    "K. J."
+   ],
+   [
+    "Stewart",
+    "D. T."
+   ],
+   [
+    "Sugrue",
+    "V. J."
+   ],
+   [
+    "Szladovits",
+    "B."
+   ],
+   [
+    "Takahashi",
+    "J. S."
+   ],
+   [
+    "Takasugi",
+    "M."
+   ],
+   [
+    "Teeling",
+    "E. C."
+   ],
+   [
+    "Thompson",
+    "M. J."
+   ],
+   [
+    "Van Bonn",
+    "B."
+   ],
+   [
+    "Vernes",
+    "S. C."
+   ],
+   [
+    "Villar",
+    "D."
+   ],
+   [
+    "Vinters",
+    "H. V."
+   ],
+   [
+    "Wallingford",
+    "M. C."
+   ],
+   [
+    "Wang",
+    "N."
+   ],
+   [
+    "Wayne",
+    "R. K."
+   ],
+   [
+    "Wilkinson",
+    "G. S."
+   ],
+   [
+    "Williams",
+    "C. K."
+   ],
+   [
+    "Williams",
+    "R. W."
+   ],
+   [
+    "Yang",
+    "X. W."
+   ],
+   [
+    "Yao",
+    "M."
+   ],
+   [
+    "Young",
+    "B. G."
+   ],
+   [
+    "Zhang",
+    "B."
+   ],
+   [
+    "Zhang",
+    "Z."
+   ],
+   [
+    "Zhao",
+    "P."
+   ],
+   [
+    "Zhao",
+    "Y."
+   ],
+   [
+    "Zhou",
+    "W."
+   ],
+   [
+    "Zimmermann",
+    "J."
+   ],
+   [
+    "Ernst",
+    "J."
+   ],
+   [
+    "Raj",
+    "K."
+   ],
+   [
+    "Horvath",
+    "S."
+   ]
+  ],
+  "journal": "Nature Aging",
+  "volume": "3",
+  "issue": "9",
+  "page": "1144-1166",
+  "article_number": null,
+  "year": 2023,
+  "pub_year": 2023,
+  "type": "journal-article"
+ },
+ "Bell2019": {
+  "status": "ok",
+  "doi": "10.1186/s13059-019-1824-y",
+  "title": "DNA methylation aging clocks: challenges and recommendations",
+  "authors": [
+   [
+    "Bell",
+    "Christopher G."
+   ],
+   [
+    "Lowe",
+    "Robert"
+   ],
+   [
+    "Adams",
+    "Peter D."
+   ],
+   [
+    "Baccarelli",
+    "Andrea A."
+   ],
+   [
+    "Beck",
+    "Stephan"
+   ],
+   [
+    "Bell",
+    "Jordana T."
+   ],
+   [
+    "Christensen",
+    "Brock C."
+   ],
+   [
+    "Gladyshev",
+    "Vadim N."
+   ],
+   [
+    "Heijmans",
+    "Bastiaan T."
+   ],
+   [
+    "Horvath",
+    "Steve"
+   ],
+   [
+    "Ideker",
+    "Trey"
+   ],
+   [
+    "Issa",
+    "Jean-Pierre J."
+   ],
+   [
+    "Kelsey",
+    "Karl T."
+   ],
+   [
+    "Marioni",
+    "Riccardo E."
+   ],
+   [
+    "Reik",
+    "Wolf"
+   ],
+   [
+    "Relton",
+    "Caroline L."
+   ],
+   [
+    "Schalkwyk",
+    "Leonard C."
+   ],
+   [
+    "Teschendorff",
+    "Andrew E."
+   ],
+   [
+    "Wagner",
+    "Wolfgang"
+   ],
+   [
+    "Zhang",
+    "Kang"
+   ],
+   [
+    "Rakyan",
+    "Vardhman K."
+   ]
+  ],
+  "journal": "Genome Biology",
+  "volume": "20",
+  "issue": "1",
+  "page": null,
+  "article_number": "249",
+  "year": 2019,
+  "pub_year": 2019,
+  "type": "journal-article"
+ },
+ "LopezOtin2023": {
+  "status": "ok",
+  "doi": "10.1016/j.cell.2022.11.001",
+  "title": "Hallmarks of aging: An expanding universe",
+  "authors": [
+   [
+    "López-Otín",
+    "Carlos"
+   ],
+   [
+    "Blasco",
+    "Maria A."
+   ],
+   [
+    "Partridge",
+    "Linda"
+   ],
+   [
+    "Serrano",
+    "Manuel"
+   ],
+   [
+    "Kroemer",
+    "Guido"
+   ]
+  ],
+  "journal": "Cell",
+  "volume": "186",
+  "issue": "2",
+  "page": "243-278",
+  "article_number": null,
+  "year": 2023,
+  "pub_year": 2023,
+  "type": "journal-article"
+ },
+ "Wilding2021": {
+  "status": "ok",
+  "doi": "10.1056/NEJMoa2032183",
+  "title": "Once-Weekly Semaglutide in Adults with Overweight or Obesity",
+  "authors": [
+   [
+    "Wilding",
+    "John P.H."
+   ],
+   [
+    "Batterham",
+    "Rachel L."
+   ],
+   [
+    "Calanna",
+    "Salvatore"
+   ],
+   [
+    "Davies",
+    "Melanie"
+   ],
+   [
+    "Van Gaal",
+    "Luc F."
+   ],
+   [
+    "Lingvay",
+    "Ildiko"
+   ],
+   [
+    "McGowan",
+    "Barbara M."
+   ],
+   [
+    "Rosenstock",
+    "Julio"
+   ],
+   [
+    "Tran",
+    "Marie T.D."
+   ],
+   [
+    "Wadden",
+    "Thomas A."
+   ],
+   [
+    "Wharton",
+    "Sean"
+   ],
+   [
+    "Yokote",
+    "Koutaro"
+   ],
+   [
+    "Zeuthen",
+    "Niels"
+   ],
+   [
+    "Kushner",
+    "Robert F."
+   ]
+  ],
+  "journal": "New England Journal of Medicine",
+  "volume": "384",
+  "issue": "11",
+  "page": "989-1002",
+  "article_number": null,
+  "year": 2021,
+  "pub_year": 2021,
+  "type": "journal-article"
+ },
+ "Jastreboff2022": {
+  "status": "ok",
+  "doi": "10.1056/NEJMoa2206038",
+  "title": "Tirzepatide Once Weekly for the Treatment of Obesity",
+  "authors": [
+   [
+    "Jastreboff",
+    "Ania M."
+   ],
+   [
+    "Aronne",
+    "Louis J."
+   ],
+   [
+    "Ahmad",
+    "Nadia N."
+   ],
+   [
+    "Wharton",
+    "Sean"
+   ],
+   [
+    "Connery",
+    "Lisa"
+   ],
+   [
+    "Alves",
+    "Breno"
+   ],
+   [
+    "Kiyosue",
+    "Arihiro"
+   ],
+   [
+    "Zhang",
+    "Shuyu"
+   ],
+   [
+    "Liu",
+    "Bing"
+   ],
+   [
+    "Bunck",
+    "Mathijs C."
+   ],
+   [
+    "Stefanski",
+    "Adam"
+   ]
+  ],
+  "journal": "New England Journal of Medicine",
+  "volume": "387",
+  "issue": "3",
+  "page": "205-216",
+  "article_number": null,
+  "year": 2022,
+  "pub_year": 2022,
+  "type": "journal-article"
+ },
+ "Sargeant2019": {
+  "status": "ok",
+  "doi": "10.3803/EnM.2019.34.3.247",
+  "title": "A Review of the Effects of Glucagon-Like Peptide-1 Receptor Agonists and Sodium-Glucose Cotransporter 2 Inhibitors on Lean Body Mass in Humans",
+  "authors": [
+   [
+    "Sargeant",
+    "Jack Alistair"
+   ],
+   [
+    "Henson",
+    "Joseph"
+   ],
+   [
+    "King",
+    "James Adam"
+   ],
+   [
+    "Yates",
+    "Thomas"
+   ],
+   [
+    "Khunti",
+    "Kamlesh"
+   ],
+   [
+    "Davies",
+    "Melanie Jane"
+   ]
+  ],
+  "journal": "Endocrinology and Metabolism",
+  "volume": "34",
+  "issue": "3",
+  "page": "247",
+  "article_number": null,
+  "year": 2019,
+  "pub_year": 2019,
+  "type": "journal-article"
+ },
+ "Neeland2024": {
+  "status": "ok",
+  "doi": "10.1111/dom.15728",
+  "title": "Changes in lean body mass with\n                    <scp>glucagon‐like peptide</scp>\n                    ‐1‐based therapies and mitigation strategies",
+  "authors": [
+   [
+    "Neeland",
+    "Ian J."
+   ],
+   [
+    "Linge",
+    "Jennifer"
+   ],
+   [
+    "Birkenfeld",
+    "Andreas L."
+   ]
+  ],
+  "journal": "Diabetes, Obesity and Metabolism",
+  "volume": "26",
+  "issue": "S4",
+  "page": "16-27",
+  "article_number": null,
+  "year": 2024,
+  "pub_year": 2024,
+  "type": "journal-article"
+ },
+ "Cruz2019": {
+  "status": "ok",
+  "doi": "10.1093/ageing/afy169",
+  "title": "Sarcopenia: revised European consensus on definition and diagnosis",
+  "authors": [
+   [
+    "Cruz-Jentoft",
+    "Alfonso J"
+   ],
+   [
+    "Bahat",
+    "Gülistan"
+   ],
+   [
+    "Bauer",
+    "Jürgen"
+   ],
+   [
+    "Boirie",
+    "Yves"
+   ],
+   [
+    "Bruyère",
+    "Olivier"
+   ],
+   [
+    "Cederholm",
+    "Tommy"
+   ],
+   [
+    "Cooper",
+    "Cyrus"
+   ],
+   [
+    "Landi",
+    "Francesco"
+   ],
+   [
+    "Rolland",
+    "Yves"
+   ],
+   [
+    "Sayer",
+    "Avan Aihie"
+   ],
+   [
+    "Schneider",
+    "Stéphane M"
+   ],
+   [
+    "Sieber",
+    "Cornel C"
+   ],
+   [
+    "Topinkova",
+    "Eva"
+   ],
+   [
+    "Vandewoude",
+    "Maurits"
+   ],
+   [
+    "Visser",
+    "Marjolein"
+   ],
+   [
+    "Zamboni",
+    "Mauro"
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "Bautmans",
+    "Ivan"
+   ],
+   [
+    "Baeyens",
+    "Jean-Pierre"
+   ],
+   [
+    "Cesari",
+    "Matteo"
+   ],
+   [
+    "Cherubini",
+    "Antonio"
+   ],
+   [
+    "Kanis",
+    "John"
+   ],
+   [
+    "Maggio",
+    "Marcello"
+   ],
+   [
+    "Martin",
+    "Finbarr"
+   ],
+   [
+    "Michel",
+    "Jean-Pierre"
+   ],
+   [
+    "Pitkala",
+    "Kaisu"
+   ],
+   [
+    "Reginster",
+    "Jean-Yves"
+   ],
+   [
+    "Rizzoli",
+    "René"
+   ],
+   [
+    "Sánchez-Rodríguez",
+    "Dolores"
+   ],
+   [
+    "Schols",
+    "Jos"
+   ]
+  ],
+  "journal": "Age and Ageing",
+  "volume": "48",
+  "issue": "1",
+  "page": "16-31",
+  "article_number": null,
+  "year": 2018,
+  "pub_year": 2019,
+  "type": "journal-article"
+ },
+ "Srikanthan2014": {
+  "status": "ok",
+  "doi": "10.1016/j.amjmed.2014.02.007",
+  "title": "Muscle Mass Index As a Predictor of Longevity in Older Adults",
+  "authors": [
+   [
+    "Srikanthan",
+    "Preethi"
+   ],
+   [
+    "Karlamangla",
+    "Arun S."
+   ]
+  ],
+  "journal": "The American Journal of Medicine",
+  "volume": "127",
+  "issue": "6",
+  "page": "547-553",
+  "article_number": null,
+  "year": 2014,
+  "pub_year": 2014,
+  "type": "journal-article"
+ },
+ "Srikanthan2010": {
+  "status": "ok",
+  "doi": "10.1371/journal.pone.0010805",
+  "title": "Sarcopenia Exacerbates Obesity-Associated Insulin Resistance and Dysglycemia: Findings from the National Health and Nutrition Examination Survey III",
+  "authors": [
+   [
+    "Srikanthan",
+    "Preethi"
+   ],
+   [
+    "Hevener",
+    "Andrea L."
+   ],
+   [
+    "Karlamangla",
+    "Arun S."
+   ]
+  ],
+  "journal": "PLoS ONE",
+  "volume": "5",
+  "issue": "5",
+  "page": "e10805",
+  "article_number": null,
+  "year": 2010,
+  "pub_year": 2010,
+  "type": "journal-article"
+ },
+ "DeFronzo2009": {
+  "status": "ok",
+  "doi": "10.2337/dc09-S302",
+  "title": "Skeletal Muscle Insulin Resistance Is the Primary Defect in Type 2 Diabetes",
+  "authors": [
+   [
+    "DeFronzo",
+    "Ralph A."
+   ],
+   [
+    "Tripathy",
+    "Devjit"
+   ]
+  ],
+  "journal": "Diabetes Care",
+  "volume": "32",
+  "issue": "suppl_2",
+  "page": "S157-S163",
+  "article_number": null,
+  "year": 2009,
+  "pub_year": 2009,
+  "type": "journal-article"
+ },
+ "Wolfe2006": {
+  "status": "ok",
+  "doi": "10.1093/ajcn/84.3.475",
+  "title": "The underappreciated role of muscle in health and disease",
+  "authors": [
+   [
+    "Wolfe",
+    "Robert R"
+   ]
+  ],
+  "journal": "The American Journal of Clinical Nutrition",
+  "volume": "84",
+  "issue": "3",
+  "page": "475-482",
+  "article_number": null,
+  "year": 2006,
+  "pub_year": 2006,
+  "type": "journal-article"
+ },
+ "Brownlee2001": {
+  "status": "ok",
+  "doi": "10.1038/414813a",
+  "title": "Biochemistry and molecular cell biology of diabetic complications",
+  "authors": [
+   [
+    "Brownlee",
+    "Michael"
+   ]
+  ],
+  "journal": "Nature",
+  "volume": "414",
+  "issue": "6865",
+  "page": "813-820",
+  "article_number": null,
+  "year": 2001,
+  "pub_year": 2001,
+  "type": "journal-article"
+ },
+ "Hotamisligil2006": {
+  "status": "ok",
+  "doi": "10.1038/nature05485",
+  "title": "Inflammation and metabolic disorders",
+  "authors": [
+   [
+    "Hotamisligil",
+    "Gökhan S."
+   ]
+  ],
+  "journal": "Nature",
+  "volume": "444",
+  "issue": "7121",
+  "page": "860-867",
+  "article_number": null,
+  "year": 2006,
+  "pub_year": 2006,
+  "type": "journal-article"
+ },
+ "Tchkonia2010": {
+  "status": "ok",
+  "doi": "10.1111/j.1474-9726.2010.00608.x",
+  "title": "Fat tissue, aging, and cellular senescence",
+  "authors": [
+   [
+    "Tchkonia",
+    "Tamara"
+   ],
+   [
+    "Morbeck",
+    "Dean E."
+   ],
+   [
+    "Von Zglinicki",
+    "Thomas"
+   ],
+   [
+    "Van Deursen",
+    "Jan"
+   ],
+   [
+    "Lustgarten",
+    "Joseph"
+   ],
+   [
+    "Scrable",
+    "Heidi"
+   ],
+   [
+    "Khosla",
+    "Sundeep"
+   ],
+   [
+    "Jensen",
+    "Michael D."
+   ],
+   [
+    "Kirkland",
+    "James L."
+   ]
+  ],
+  "journal": "Aging Cell",
+  "volume": "9",
+  "issue": "5",
+  "page": "667-684",
+  "article_number": null,
+  "year": 2010,
+  "pub_year": 2010,
+  "type": "journal-article"
+ },
+ "Batsis2018": {
+  "status": "ok",
+  "doi": "10.1038/s41574-018-0062-9",
+  "title": "Sarcopenic obesity in older adults: aetiology, epidemiology and treatment strategies",
+  "authors": [
+   [
+    "Batsis",
+    "John A."
+   ],
+   [
+    "Villareal",
+    "Dennis T."
+   ]
+  ],
+  "journal": "Nature Reviews Endocrinology",
+  "volume": "14",
+  "issue": "9",
+  "page": "513-537",
+  "article_number": null,
+  "year": 2018,
+  "pub_year": 2018,
+  "type": "journal-article"
+ },
+ "Heymsfield2021": {
+  "status": "ok",
+  "doi": "10.1001/jamanetworkopen.2020.33457",
+  "title": "Effect of Bimagrumab vs Placebo on Body Fat Mass Among Adults With Type 2 Diabetes and Obesity",
+  "authors": [
+   [
+    "Heymsfield",
+    "Steven B."
+   ],
+   [
+    "Coleman",
+    "Laura A."
+   ],
+   [
+    "Miller",
+    "Ram"
+   ],
+   [
+    "Rooks",
+    "Daniel S."
+   ],
+   [
+    "Laurent",
+    "Didier"
+   ],
+   [
+    "Petricoul",
+    "Olivier"
+   ],
+   [
+    "Praestgaard",
+    "Jens"
+   ],
+   [
+    "Swan",
+    "Therese"
+   ],
+   [
+    "Wade",
+    "Thomas"
+   ],
+   [
+    "Perry",
+    "Robert G."
+   ],
+   [
+    "Goodpaster",
+    "Bret H."
+   ],
+   [
+    "Roubenoff",
+    "Ronenn"
+   ]
+  ],
+  "journal": "JAMA Network Open",
+  "volume": "4",
+  "issue": "1",
+  "page": "e2033457",
+  "article_number": null,
+  "year": 2021,
+  "pub_year": 2021,
+  "type": "journal-article"
+ },
+ "Barzilai2016": {
+  "status": "ok",
+  "doi": "10.1016/j.cmet.2016.05.011",
+  "title": "Metformin as a Tool to Target Aging",
+  "authors": [
+   [
+    "Barzilai",
+    "Nir"
+   ],
+   [
+    "Crandall",
+    "Jill P."
+   ],
+   [
+    "Kritchevsky",
+    "Stephen B."
+   ],
+   [
+    "Espeland",
+    "Mark A."
+   ]
+  ],
+  "journal": "Cell Metabolism",
+  "volume": "23",
+  "issue": "6",
+  "page": "1060-1065",
+  "article_number": null,
+  "year": 2016,
+  "pub_year": 2016,
+  "type": "journal-article"
+ },
+ "Simental2008": {
+  "status": "ok",
+  "doi": "10.1089/met.2008.0034",
+  "title": "The Product of Fasting Glucose and Triglycerides As Surrogate for Identifying Insulin Resistance in Apparently Healthy Subjects",
+  "authors": [
+   [
+    "Simental-Mendía",
+    "Luis E."
+   ],
+   [
+    "Rodríguez-Morán",
+    "Martha"
+   ],
+   [
+    "Guerrero-Romero",
+    "Fernando"
+   ]
+  ],
+  "journal": "Metabolic Syndrome and Related Disorders",
+  "volume": "6",
+  "issue": "4",
+  "page": "299-304",
+  "article_number": null,
+  "year": 2008,
+  "pub_year": 2008,
+  "type": "journal-article"
+ },
+ "Bergman1979": {
+  "status": "ok",
+  "doi": "10.1152/ajpendo.1979.236.6.E667",
+  "title": "Quantitative estimation of insulin sensitivity.",
+  "authors": [
+   [
+    "Bergman",
+    "R N"
+   ],
+   [
+    "Ider",
+    "Y Z"
+   ],
+   [
+    "Bowden",
+    "C R"
+   ],
+   [
+    "Cobelli",
+    "C"
+   ]
+  ],
+  "journal": "American Journal of Physiology-Endocrinology and Metabolism",
+  "volume": "236",
+  "issue": "6",
+  "page": "E667",
+  "article_number": null,
+  "year": 1979,
+  "pub_year": 1979,
+  "type": "journal-article"
+ },
+ "Sobol2001": {
+  "status": "ok",
+  "doi": "10.1016/S0378-4754(00)00270-6",
+  "title": "Global sensitivity indices for nonlinear mathematical models and their Monte Carlo estimates",
+  "authors": [
+   [
+    "Sobol′",
+    "I.M"
+   ]
+  ],
+  "journal": "Mathematics and Computers in Simulation",
+  "volume": "55",
+  "issue": "1-3",
+  "page": "271-280",
+  "article_number": null,
+  "year": 2001,
+  "pub_year": 2001,
+  "type": "journal-article"
+ },
+ "Saltelli2010": {
+  "status": "ok",
+  "doi": "10.1016/j.cpc.2009.09.018",
+  "title": "Variance based sensitivity analysis of model output. Design and estimator for the total sensitivity index",
+  "authors": [
+   [
+    "Saltelli",
+    "Andrea"
+   ],
+   [
+    "Annoni",
+    "Paola"
+   ],
+   [
+    "Azzini",
+    "Ivano"
+   ],
+   [
+    "Campolongo",
+    "Francesca"
+   ],
+   [
+    "Ratto",
+    "Marco"
+   ],
+   [
+    "Tarantola",
+    "Stefano"
+   ]
+  ],
+  "journal": "Computer Physics Communications",
+  "volume": "181",
+  "issue": "2",
+  "page": "259-270",
+  "article_number": null,
+  "year": 2010,
+  "pub_year": 2010,
+  "type": "journal-article"
+ },
+ "Jansen1999": {
+  "status": "ok",
+  "doi": "10.1016/S0010-4655(98)00154-4",
+  "title": "Analysis of variance designs for model output",
+  "authors": [
+   [
+    "Jansen",
+    "Michiel J.W."
+   ]
+  ],
+  "journal": "Computer Physics Communications",
+  "volume": "117",
+  "issue": "1-2",
+  "page": "35-43",
+  "article_number": null,
+  "year": 1999,
+  "pub_year": 1999,
+  "type": "journal-article"
+ },
+ "Marino2008": {
+  "status": "ok",
+  "doi": "10.1016/j.jtbi.2008.04.011",
+  "title": "A methodology for performing global uncertainty and sensitivity analysis in systems biology",
+  "authors": [
+   [
+    "Marino",
+    "Simeone"
+   ],
+   [
+    "Hogue",
+    "Ian B."
+   ],
+   [
+    "Ray",
+    "Christian J."
+   ],
+   [
+    "Kirschner",
+    "Denise E."
+   ]
+  ],
+  "journal": "Journal of Theoretical Biology",
+  "volume": "254",
+  "issue": "1",
+  "page": "178-196",
+  "article_number": null,
+  "year": 2008,
+  "pub_year": 2008,
+  "type": "journal-article"
+ },
+ "Raue2009": {
+  "status": "ok",
+  "doi": "10.1093/bioinformatics/btp358",
+  "title": "Structural and practical identifiability analysis of partially observed dynamical models by exploiting the profile likelihood",
+  "authors": [
+   [
+    "Raue",
+    "A."
+   ],
+   [
+    "Kreutz",
+    "C."
+   ],
+   [
+    "Maiwald",
+    "T."
+   ],
+   [
+    "Bachmann",
+    "J."
+   ],
+   [
+    "Schilling",
+    "M."
+   ],
+   [
+    "Klingmüller",
+    "U."
+   ],
+   [
+    "Timmer",
+    "J."
+   ]
+  ],
+  "journal": "Bioinformatics",
+  "volume": "25",
+  "issue": "15",
+  "page": "1923-1929",
+  "article_number": null,
+  "year": 2009,
+  "pub_year": 2009,
+  "type": "journal-article"
+ },
+ "Petzold1983": {
+  "status": "ok",
+  "doi": "10.1137/0904010",
+  "title": "Automatic Selection of Methods for Solving Stiff and Nonstiff Systems of Ordinary Differential Equations",
+  "authors": [
+   [
+    "Petzold",
+    "Linda"
+   ]
+  ],
+  "journal": "SIAM Journal on Scientific and Statistical Computing",
+  "volume": "4",
+  "issue": "1",
+  "page": "136-148",
+  "article_number": null,
+  "year": 1983,
+  "pub_year": 1983,
+  "type": "journal-article"
+ },
+ "Virtanen2020": {
+  "status": "ok",
+  "doi": "10.1038/s41592-019-0686-2",
+  "title": "SciPy 1.0: fundamental algorithms for scientific computing in Python",
+  "authors": [
+   [
+    "Virtanen",
+    "Pauli"
+   ],
+   [
+    "Gommers",
+    "Ralf"
+   ],
+   [
+    "Oliphant",
+    "Travis E."
+   ],
+   [
+    "Haberland",
+    "Matt"
+   ],
+   [
+    "Reddy",
+    "Tyler"
+   ],
+   [
+    "Cournapeau",
+    "David"
+   ],
+   [
+    "Burovski",
+    "Evgeni"
+   ],
+   [
+    "Peterson",
+    "Pearu"
+   ],
+   [
+    "Weckesser",
+    "Warren"
+   ],
+   [
+    "Bright",
+    "Jonathan"
+   ],
+   [
+    "van der Walt",
+    "Stéfan J."
+   ],
+   [
+    "Brett",
+    "Matthew"
+   ],
+   [
+    "Wilson",
+    "Joshua"
+   ],
+   [
+    "Millman",
+    "K. Jarrod"
+   ],
+   [
+    "Mayorov",
+    "Nikolay"
+   ],
+   [
+    "Nelson",
+    "Andrew R. J."
+   ],
+   [
+    "Jones",
+    "Eric"
+   ],
+   [
+    "Kern",
+    "Robert"
+   ],
+   [
+    "Larson",
+    "Eric"
+   ],
+   [
+    "Carey",
+    "C J"
+   ],
+   [
+    "Polat",
+    "İlhan"
+   ],
+   [
+    "Feng",
+    "Yu"
+   ],
+   [
+    "Moore",
+    "Eric W."
+   ],
+   [
+    "VanderPlas",
+    "Jake"
+   ],
+   [
+    "Laxalde",
+    "Denis"
+   ],
+   [
+    "Perktold",
+    "Josef"
+   ],
+   [
+    "Cimrman",
+    "Robert"
+   ],
+   [
+    "Henriksen",
+    "Ian"
+   ],
+   [
+    "Quintero",
+    "E. A."
+   ],
+   [
+    "Harris",
+    "Charles R."
+   ],
+   [
+    "Archibald",
+    "Anne M."
+   ],
+   [
+    "Ribeiro",
+    "Antônio H."
+   ],
+   [
+    "Pedregosa",
+    "Fabian"
+   ],
+   [
+    "van Mulbregt",
+    "Paul"
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "Vijaykumar",
+    "Aditya"
+   ],
+   [
+    "Bardelli",
+    "Alessandro Pietro"
+   ],
+   [
+    "Rothberg",
+    "Alex"
+   ],
+   [
+    "Hilboll",
+    "Andreas"
+   ],
+   [
+    "Kloeckner",
+    "Andreas"
+   ],
+   [
+    "Scopatz",
+    "Anthony"
+   ],
+   [
+    "Lee",
+    "Antony"
+   ],
+   [
+    "Rokem",
+    "Ariel"
+   ],
+   [
+    "Woods",
+    "C. Nathan"
+   ],
+   [
+    "Fulton",
+    "Chad"
+   ],
+   [
+    "Masson",
+    "Charles"
+   ],
+   [
+    "Häggström",
+    "Christian"
+   ],
+   [
+    "Fitzgerald",
+    "Clark"
+   ],
+   [
+    "Nicholson",
+    "David A."
+   ],
+   [
+    "Hagen",
+    "David R."
+   ],
+   [
+    "Pasechnik",
+    "Dmitrii V."
+   ],
+   [
+    "Olivetti",
+    "Emanuele"
+   ],
+   [
+    "Martin",
+    "Eric"
+   ],
+   [
+    "Wieser",
+    "Eric"
+   ],
+   [
+    "Silva",
+    "Fabrice"
+   ],
+   [
+    "Lenders",
+    "Felix"
+   ],
+   [
+    "Wilhelm",
+    "Florian"
+   ],
+   [
+    "Young",
+    "G."
+   ],
+   [
+    "Price",
+    "Gavin A."
+   ],
+   [
+    "Ingold",
+    "Gert-Ludwig"
+   ],
+   [
+    "Allen",
+    "Gregory E."
+   ],
+   [
+    "Lee",
+    "Gregory R."
+   ],
+   [
+    "Audren",
+    "Hervé"
+   ],
+   [
+    "Probst",
+    "Irvin"
+   ],
+   [
+    "Dietrich",
+    "Jörg P."
+   ],
+   [
+    "Silterra",
+    "Jacob"
+   ],
+   [
+    "Webber",
+    "James T"
+   ],
+   [
+    "Slavič",
+    "Janko"
+   ],
+   [
+    "Nothman",
+    "Joel"
+   ],
+   [
+    "Buchner",
+    "Johannes"
+   ],
+   [
+    "Kulick",
+    "Johannes"
+   ],
+   [
+    "Schönberger",
+    "Johannes L."
+   ],
+   [
+    "de Miranda Cardoso",
+    "José Vinícius"
+   ],
+   [
+    "Reimer",
+    "Joscha"
+   ],
+   [
+    "Harrington",
+    "Joseph"
+   ],
+   [
+    "Rodríguez",
+    "Juan Luis Cano"
+   ],
+   [
+    "Nunez-Iglesias",
+    "Juan"
+   ],
+   [
+    "Kuczynski",
+    "Justin"
+   ],
+   [
+    "Tritz",
+    "Kevin"
+   ],
+   [
+    "Thoma",
+    "Martin"
+   ],
+   [
+    "Newville",
+    "Matthew"
+   ],
+   [
+    "Kümmerer",
+    "Matthias"
+   ],
+   [
+    "Bolingbroke",
+    "Maximilian"
+   ],
+   [
+    "Tartre",
+    "Michael"
+   ],
+   [
+    "Pak",
+    "Mikhail"
+   ],
+   [
+    "Smith",
+    "Nathaniel J."
+   ],
+   [
+    "Nowaczyk",
+    "Nikolai"
+   ],
+   [
+    "Shebanov",
+    "Nikolay"
+   ],
+   [
+    "Pavlyk",
+    "Oleksandr"
+   ],
+   [
+    "Brodtkorb",
+    "Per A."
+   ],
+   [
+    "Lee",
+    "Perry"
+   ],
+   [
+    "McGibbon",
+    "Robert T."
+   ],
+   [
+    "Feldbauer",
+    "Roman"
+   ],
+   [
+    "Lewis",
+    "Sam"
+   ],
+   [
+    "Tygier",
+    "Sam"
+   ],
+   [
+    "Sievert",
+    "Scott"
+   ],
+   [
+    "Vigna",
+    "Sebastiano"
+   ],
+   [
+    "Peterson",
+    "Stefan"
+   ],
+   [
+    "More",
+    "Surhud"
+   ],
+   [
+    "Pudlik",
+    "Tadeusz"
+   ],
+   [
+    "Oshima",
+    "Takuya"
+   ],
+   [
+    "Pingel",
+    "Thomas J."
+   ],
+   [
+    "Robitaille",
+    "Thomas P."
+   ],
+   [
+    "Spura",
+    "Thomas"
+   ],
+   [
+    "Jones",
+    "Thouis R."
+   ],
+   [
+    "Cera",
+    "Tim"
+   ],
+   [
+    "Leslie",
+    "Tim"
+   ],
+   [
+    "Zito",
+    "Tiziano"
+   ],
+   [
+    "Krauss",
+    "Tom"
+   ],
+   [
+    "Upadhyay",
+    "Utkarsh"
+   ],
+   [
+    "Halchenko",
+    "Yaroslav O."
+   ],
+   [
+    "Vázquez-Baeza",
+    "Yoshiki"
+   ]
+  ],
+  "journal": "Nature Methods",
+  "volume": "17",
+  "issue": "3",
+  "page": "261-272",
+  "article_number": null,
+  "year": 2020,
+  "pub_year": 2020,
+  "type": "journal-article"
+ },
+ "Harris2020": {
+  "status": "ok",
+  "doi": "10.1038/s41586-020-2649-2",
+  "title": "Array programming with NumPy",
+  "authors": [
+   [
+    "Harris",
+    "Charles R."
+   ],
+   [
+    "Millman",
+    "K. Jarrod"
+   ],
+   [
+    "van der Walt",
+    "Stéfan J."
+   ],
+   [
+    "Gommers",
+    "Ralf"
+   ],
+   [
+    "Virtanen",
+    "Pauli"
+   ],
+   [
+    "Cournapeau",
+    "David"
+   ],
+   [
+    "Wieser",
+    "Eric"
+   ],
+   [
+    "Taylor",
+    "Julian"
+   ],
+   [
+    "Berg",
+    "Sebastian"
+   ],
+   [
+    "Smith",
+    "Nathaniel J."
+   ],
+   [
+    "Kern",
+    "Robert"
+   ],
+   [
+    "Picus",
+    "Matti"
+   ],
+   [
+    "Hoyer",
+    "Stephan"
+   ],
+   [
+    "van Kerkwijk",
+    "Marten H."
+   ],
+   [
+    "Brett",
+    "Matthew"
+   ],
+   [
+    "Haldane",
+    "Allan"
+   ],
+   [
+    "del Río",
+    "Jaime Fernández"
+   ],
+   [
+    "Wiebe",
+    "Mark"
+   ],
+   [
+    "Peterson",
+    "Pearu"
+   ],
+   [
+    "Gérard-Marchant",
+    "Pierre"
+   ],
+   [
+    "Sheppard",
+    "Kevin"
+   ],
+   [
+    "Reddy",
+    "Tyler"
+   ],
+   [
+    "Weckesser",
+    "Warren"
+   ],
+   [
+    "Abbasi",
+    "Hameer"
+   ],
+   [
+    "Gohlke",
+    "Christoph"
+   ],
+   [
+    "Oliphant",
+    "Travis E."
+   ]
+  ],
+  "journal": "Nature",
+  "volume": "585",
+  "issue": "7825",
+  "page": "357-362",
+  "article_number": null,
+  "year": 2020,
+  "pub_year": 2020,
+  "type": "journal-article"
+ },
+ "Hunter2007": {
+  "status": "ok",
+  "doi": "10.1109/MCSE.2007.55",
+  "title": "Matplotlib: A 2D Graphics Environment",
+  "authors": [
+   [
+    "Hunter",
+    "John D."
+   ]
+  ],
+  "journal": "Computing in Science &amp; Engineering",
+  "volume": "9",
+  "issue": "3",
+  "page": "90-95",
+  "article_number": null,
+  "year": 2007,
+  "pub_year": 2007,
+  "type": "journal-article"
+ },
+ "Kirkwood1977": {
+  "status": "ok",
+  "doi": "10.1038/270301a0",
+  "title": "Evolution of ageing",
+  "authors": [
+   [
+    "Kirkwood",
+    "T. B. L."
+   ]
+  ],
+  "journal": "Nature",
+  "volume": "270",
+  "issue": "5635",
+  "page": "301-304",
+  "article_number": null,
+  "year": 1977,
+  "pub_year": 1977,
+  "type": "journal-article"
+ },
+ "Hall2011": {
+  "status": "ok",
+  "doi": "10.1016/S0140-6736(11)60812-X",
+  "title": "Quantification of the effect of energy imbalance on bodyweight",
+  "authors": [
+   [
+    "Hall",
+    "Kevin D"
+   ],
+   [
+    "Sacks",
+    "Gary"
+   ],
+   [
+    "Chandramohan",
+    "Dhruva"
+   ],
+   [
+    "Chow",
+    "Carson C"
+   ],
+   [
+    "Wang",
+    "Y Claire"
+   ],
+   [
+    "Gortmaker",
+    "Steven L"
+   ],
+   [
+    "Swinburn",
+    "Boyd A"
+   ]
+  ],
+  "journal": "The Lancet",
+  "volume": "378",
+  "issue": "9793",
+  "page": "826-837",
+  "article_number": null,
+  "year": 2011,
+  "pub_year": 2011,
+  "type": "journal-article"
+ },
+ "Lu2020": {
+  "status": "ok",
+  "doi": "10.1038/s41586-020-2975-4",
+  "title": "Reprogramming to recover youthful epigenetic information and restore vision",
+  "authors": [
+   [
+    "Lu",
+    "Yuancheng"
+   ],
+   [
+    "Brommer",
+    "Benedikt"
+   ],
+   [
+    "Tian",
+    "Xiao"
+   ],
+   [
+    "Krishnan",
+    "Anitha"
+   ],
+   [
+    "Meer",
+    "Margarita"
+   ],
+   [
+    "Wang",
+    "Chen"
+   ],
+   [
+    "Vera",
+    "Daniel L."
+   ],
+   [
+    "Zeng",
+    "Qiurui"
+   ],
+   [
+    "Yu",
+    "Doudou"
+   ],
+   [
+    "Bonkowski",
+    "Michael S."
+   ],
+   [
+    "Yang",
+    "Jae-Hyun"
+   ],
+   [
+    "Zhou",
+    "Songlin"
+   ],
+   [
+    "Hoffmann",
+    "Emma M."
+   ],
+   [
+    "Karg",
+    "Margarete M."
+   ],
+   [
+    "Schultz",
+    "Michael B."
+   ],
+   [
+    "Kane",
+    "Alice E."
+   ],
+   [
+    "Davidsohn",
+    "Noah"
+   ],
+   [
+    "Korobkina",
+    "Ekaterina"
+   ],
+   [
+    "Chwalek",
+    "Karolina"
+   ],
+   [
+    "Rajman",
+    "Luis A."
+   ],
+   [
+    "Church",
+    "George M."
+   ],
+   [
+    "Hochedlinger",
+    "Konrad"
+   ],
+   [
+    "Gladyshev",
+    "Vadim N."
+   ],
+   [
+    "Horvath",
+    "Steve"
+   ],
+   [
+    "Levine",
+    "Morgan E."
+   ],
+   [
+    "Gregory-Ksander",
+    "Meredith S."
+   ],
+   [
+    "Ksander",
+    "Bruce R."
+   ],
+   [
+    "He",
+    "Zhigang"
+   ],
+   [
+    "Sinclair",
+    "David A."
+   ]
+  ],
+  "journal": "Nature",
+  "volume": "588",
+  "issue": "7836",
+  "page": "124-129",
+  "article_number": null,
+  "year": 2020,
+  "pub_year": 2020,
+  "type": "journal-article"
+ },
+ "Chan2025": {
+  "status": "ok",
+  "doi": "10.18632/aging.206220",
+  "title": "DNA methylation entropy is a biomarker for aging",
+  "authors": [
+   [
+    "Chan",
+    "Jonathan"
+   ],
+   [
+    "Rubbi",
+    "Liudmilla"
+   ],
+   [
+    "Pellegrini",
+    "Matteo"
+   ]
+  ],
+  "journal": "Aging",
+  "volume": null,
+  "issue": null,
+  "page": null,
+  "article_number": null,
+  "year": 2025,
+  "pub_year": 2025,
+  "type": "journal-article"
+ },
+ "Linge2024": {
+  "status": "ok",
+  "doi": "10.1161/circulationaha.124.067676",
+  "title": "Muscle Mass and Glucagon-Like Peptide-1 Receptor Agonists: Adaptive or Maladaptive Response to Weight Loss?",
+  "authors": [
+   [
+    "Linge",
+    "Jennifer"
+   ],
+   [
+    "Birkenfeld",
+    "Andreas L."
+   ],
+   [
+    "Neeland",
+    "Ian J."
+   ]
+  ],
+  "journal": "Circulation",
+  "volume": "150",
+  "issue": "16",
+  "page": "1288-1298",
+  "article_number": null,
+  "year": 2024,
+  "pub_year": 2024,
+  "type": "journal-article"
+ },
+ "Villareal2011": {
+  "status": "ok",
+  "doi": "10.1056/nejmoa1008234",
+  "title": "Weight Loss, Exercise, or Both and Physical Function in Obese Older Adults",
+  "authors": [
+   [
+    "Villareal",
+    "Dennis T."
+   ],
+   [
+    "Chode",
+    "Suresh"
+   ],
+   [
+    "Parimi",
+    "Nehu"
+   ],
+   [
+    "Sinacore",
+    "David R."
+   ],
+   [
+    "Hilton",
+    "Tiffany"
+   ],
+   [
+    "Armamento-Villareal",
+    "Reina"
+   ],
+   [
+    "Napoli",
+    "Nicola"
+   ],
+   [
+    "Qualls",
+    "Clifford"
+   ],
+   [
+    "Shah",
+    "Krupa"
+   ]
+  ],
+  "journal": "New England Journal of Medicine",
+  "volume": "364",
+  "issue": "13",
+  "page": "1218-1229",
+  "article_number": null,
+  "year": 2011,
+  "pub_year": 2011,
+  "type": "journal-article"
+ },
+ "Zhao2023": {
+  "status": "ok",
+  "doi": "10.1038/s41598-023-43512-0",
+  "title": "Triglyceride glucose index as a predictor of mortality in middle-aged and elderly patients with type 2 diabetes in the US",
+  "authors": [
+   [
+    "Zhao",
+    "Mengjie"
+   ],
+   [
+    "Xiao",
+    "Mengli"
+   ],
+   [
+    "Tan",
+    "Qin"
+   ],
+   [
+    "Lu",
+    "Fang"
+   ]
+  ],
+  "journal": "Scientific Reports",
+  "volume": "13",
+  "issue": "1",
+  "page": null,
+  "article_number": "16478",
+  "year": 2023,
+  "pub_year": 2023,
+  "type": "journal-article"
+ },
+ "Fahy2019": {
+  "status": "ok",
+  "doi": "10.1111/acel.13028",
+  "title": "Reversal of epigenetic aging and immunosenescent trends in humans",
+  "authors": [
+   [
+    "Fahy",
+    "Gregory M."
+   ],
+   [
+    "Brooke",
+    "Robert T."
+   ],
+   [
+    "Watson",
+    "James P."
+   ],
+   [
+    "Good",
+    "Zinaida"
+   ],
+   [
+    "Vasanawala",
+    "Shreyas S."
+   ],
+   [
+    "Maecker",
+    "Holden"
+   ],
+   [
+    "Leipold",
+    "Michael D."
+   ],
+   [
+    "Lin",
+    "David T. S."
+   ],
+   [
+    "Kobor",
+    "Michael S."
+   ],
+   [
+    "Horvath",
+    "Steve"
+   ]
+  ],
+  "journal": "Aging Cell",
+  "volume": "18",
+  "issue": "6",
+  "page": null,
+  "article_number": "e13028",
+  "year": 2019,
+  "pub_year": 2019,
+  "type": "journal-article"
+ },
+ "Kennedy2014": {
+  "status": "ok",
+  "doi": "10.1016/j.cell.2014.10.039",
+  "title": "Geroscience: Linking Aging to Chronic Disease",
+  "authors": [
+   [
+    "Kennedy",
+    "Brian K."
+   ],
+   [
+    "Berger",
+    "Shelley L."
+   ],
+   [
+    "Brunet",
+    "Anne"
+   ],
+   [
+    "Campisi",
+    "Judith"
+   ],
+   [
+    "Cuervo",
+    "Ana Maria"
+   ],
+   [
+    "Epel",
+    "Elissa S."
+   ],
+   [
+    "Franceschi",
+    "Claudio"
+   ],
+   [
+    "Lithgow",
+    "Gordon J."
+   ],
+   [
+    "Morimoto",
+    "Richard I."
+   ],
+   [
+    "Pessin",
+    "Jeffrey E."
+   ],
+   [
+    "Rando",
+    "Thomas A."
+   ],
+   [
+    "Richardson",
+    "Arlan"
+   ],
+   [
+    "Schadt",
+    "Eric E."
+   ],
+   [
+    "Wyss-Coray",
+    "Tony"
+   ],
+   [
+    "Sierra",
+    "Felipe"
+   ]
+  ],
+  "journal": "Cell",
+  "volume": "159",
+  "issue": "4",
+  "page": "709-713",
+  "article_number": null,
+  "year": 2014,
+  "pub_year": 2014,
+  "type": "journal-article"
+ },
+ "Prado2024": {
+  "status": "ok",
+  "doi": "10.1016/S2213-8587(24)00272-9",
+  "title": "Muscle matters: the effects of medically induced weight loss on skeletal muscle",
+  "authors": [
+   [
+    "Prado",
+    "Carla M"
+   ],
+   [
+    "Phillips",
+    "Stuart M"
+   ],
+   [
+    "Gonzalez",
+    "M Cristina"
+   ],
+   [
+    "Heymsfield",
+    "Steven B"
+   ]
+  ],
+  "journal": "The Lancet Diabetes &amp; Endocrinology",
+  "volume": "12",
+  "issue": "11",
+  "page": "785-787",
+  "article_number": null,
+  "year": 2024,
+  "pub_year": 2024,
+  "type": "journal-article"
+ },
+ "Kalyani2014": {
+  "status": "ok",
+  "doi": "10.1016/s2213-8587(14)70034-8",
+  "title": "Age-related and disease-related muscle loss: the effect of diabetes, obesity, and other diseases",
+  "authors": [
+   [
+    "Kalyani",
+    "Rita Rastogi"
+   ],
+   [
+    "Corriere",
+    "Mark"
+   ],
+   [
+    "Ferrucci",
+    "Luigi"
+   ]
+  ],
+  "journal": "The Lancet Diabetes &amp; Endocrinology",
+  "volume": "2",
+  "issue": "10",
+  "page": "819-829",
+  "article_number": null,
+  "year": 2014,
+  "pub_year": 2014,
+  "type": "journal-article"
+ },
+ "Heymsfield2014": {
+  "status": "ok",
+  "doi": "10.1111/obr.12143",
+  "title": "Weight loss composition is one‐fourth fat‐free mass: a critical review and critique of this widely cited rule",
+  "authors": [
+   [
+    "Heymsfield",
+    "S. B."
+   ],
+   [
+    "Gonzalez",
+    "M. C. C."
+   ],
+   [
+    "Shen",
+    "W."
+   ],
+   [
+    "Redman",
+    "L."
+   ],
+   [
+    "Thomas",
+    "D."
+   ]
+  ],
+  "journal": "Obesity Reviews",
+  "volume": "15",
+  "issue": "4",
+  "page": "310-321",
+  "article_number": null,
+  "year": 2014,
+  "pub_year": 2014,
+  "type": "journal-article"
+ },
+ "Topp2000": {
+  "status": "ok",
+  "doi": "10.1006/jtbi.2000.2150",
+  "title": "A Model of β -Cell Mass, Insulin, and Glucose Kinetics: Pathways to Diabetes",
+  "authors": [
+   [
+    "TOPP",
+    "BRIAN"
+   ],
+   [
+    "PROMISLOW",
+    "KEITH"
+   ],
+   [
+    "DEVRIES",
+    "GERDA"
+   ],
+   [
+    "MIURA",
+    "ROBERT M"
+   ],
+   [
+    "FINEGOOD",
+    "DIANE T"
+   ]
+  ],
+  "journal": "Journal of Theoretical Biology",
+  "volume": "206",
+  "issue": "4",
+  "page": "605-619",
+  "article_number": null,
+  "year": 2000,
+  "pub_year": 2000,
+  "type": "journal-article"
+ }
+}

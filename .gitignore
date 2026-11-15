@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+_pages/
+_full.txt
+results/_*.log
