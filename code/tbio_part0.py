@@ -48,7 +48,7 @@ _hor_fr = [HOR[k]["frac"] for k in HOR]
 
 ANSWERS = (
     "First, at the nominal parameters the information loss at age 75 is U-shaped in dose with a minimum at $u^* = %.2f$, the slope of the dose–response splits exactly into a glucose, a storage and a muscle pathway, "
-    "and a closed-form stationarity condition relates the optimum to the ratio of the muscle and glucose aging couplings (Sections 4.2 and 4.4). "
+    "and a closed-form quasi-static stationarity condition relates the optimum to the ratio of the muscle and glucose aging couplings (Sections 4.2 and 4.4). "
     "Second, an interior optimum is present in %s of 40,000 sampled parameterizations, with a range of %s–%s across five sampling priors and %s–%s across treatment horizons of 5 to 30 years; "
     "it requires a muscle-deficit cost and a threshold-like muscle-loss response, and it is rare when lean-mass loss is assumed to start proportionally to dose (Sections 4.5–4.9). "
     "Third, an adiposity penalty deepens the benefit but moves the nominal optimum by less than 0.02 (Section 4.7). "
@@ -71,10 +71,10 @@ ABSTRACT = (
     "Glucose-lowering agents that also remove lean mass pose a quantitative question that aging biomarkers cannot answer by themselves: at what dose does the cost to muscle reserve outweigh the benefit of lower glucose? "
     "This study examines the question in a minimal dynamical model in which a latent information-loss variable, a muscle reserve and an energy-storage compartment are coupled through circulating glucose, "
     "and a single dose lowers glucose, removes lean mass and reduces storage. The study is computational: no data were used, no parameter was fitted, and every result is conditional on tabulated assumptions. "
-    "At the nominal parameters, information loss at age 75 is U-shaped in dose with a minimum at $u^* = %.2f$. The slope of the dose–response splits exactly into glucose, storage and muscle pathways, and a closed-form stationarity condition relates the optimum to the ratio of the muscle and glucose aging couplings. "
+    "At the nominal parameters, information loss at age 75 is U-shaped in dose with a minimum at $u^* = %.2f$. The slope of the dose–response splits exactly into glucose, storage and muscle pathways, and a closed-form quasi-static stationarity condition relates the optimum to the ratio of the muscle and glucose aging couplings. "
     "An interior optimum is present in %s of 40,000 sampled parameterizations (%s–%s across five sampling priors; %s–%s across treatment horizons of 5 to 30 years). It requires a muscle-deficit cost and a threshold-like muscle-loss response, and it survives an adiposity penalty, which deepens the benefit but moves the nominal optimum by less than 0.02. "
     "The index SIM, glucose times susceptibility per unit muscle, overstates the benefit relative to information loss (metabolic age %.1f against %.1f years) and has a different optimum. "
-    "The coupling ratio that controls the optimum is only weakly constrained by glucose, muscle and storage measurements, even in dose-ranging cohorts. A dose-ranging experiment that would refute the model is specified."
+    "The coupling ratio that controls the optimum is only weakly constrained by glucose, muscle and storage measurements, even in dose-ranging cohorts. A dose-ranging experiment that would refute the model is specified. The dose is a dimensionless model quantity, and no therapeutic dosing threshold for any specific drug is implied."
 ) % (USTAR, pct(EB["frac"], 0), pct(min(_pri_fr), 0), pct(max(_pri_fr), 0), pct(min(_hor_fr), 0), pct(max(_hor_fr), 0), AGE_SIM_OPT, AGE_I_OPT)
 add(("p0", ABSTRACT))
 add(("h1", "Keywords"))

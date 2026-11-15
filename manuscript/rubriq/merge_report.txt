@@ -1,0 +1,346 @@
+accepted 70, rejected 273, not found in the build 0
+
+  reject  [a dynamical-systems -> A dynamic-system]
+  reject  [at -> At]
+  reject  [At -> For]
+  ACCEPT  [dose -> dose,]  (Glucose-lowering agents that also remove)
+  reject  [splits -> curve is]
+  reject  [ -> split]
+  reject  [stationarity -> stationary]
+  reject  [against -> versus]
+  reject  [produce -> cause]
+  reject  [with -> who are]
+  reject  [obesity -> obese]
+  reject  [Part -> Some]
+  ACCEPT  [about -> approximately]  (Glucose-lowering agents that also suppre)
+  reject  [the -> ]
+  reject  [[10]; -> [10],]
+  reject  [read a -> determine]
+  reject  [This study develops and analyzes -> In this study,]
+  reject  [model. -> model is developed and analyzed.]
+  reject  [quasi-steady -> a quasisteady]
+  reject  [system, -> system]
+  ACCEPT  [rises -> increases]  (This study develops and analyzes such a )
+  reject  [declines, -> declines]
+  reject  [ -> as]
+  reject  [input, -> input]
+  reject  [at -> for]
+  ACCEPT  [parameters -> parameters,]  (The answers are conditional on the model)
+  ACCEPT  [dose -> dose,]  (The answers are conditional on the model)
+  reject  [0.39, -> 0.39;]
+  reject  [splits -> is split]
+  reject  [ -> the]
+  reject  [claimed -> ]
+  reject  [of -> ]
+  reject  [of -> ]
+  reject  [ -> proposed]
+  reject  [proposed -> ]
+  ACCEPT  [used -> used,]  (The status of the results is stated at t)
+  reject  [parameter was fitted, so -> parameters were fitted; thus,]
+  reject  [ -> that]
+  reject  [the -> ]
+  reject  [ -> which is]
+  ACCEPT  [rises -> increases]  (The structure of the model is shown in F)
+  reject  [loss, -> loss]
+  reject  [the -> a]
+  reject  [larger -> greater amount of]
+  reject  [raises glucose, -> increases glucose levels,]
+  reject  [ -> and]
+  reject  [ -> and]
+  reject  [the -> ]
+  reject  [the -> ]
+  reject  [Glucose G, by -> In]
+  reject  [ -> glucose G]
+  reject  [u), -> u)]
+  reject  [quasi-steady -> the quasisteady]
+  reject  [are not the same thing -> differ]
+  reject  [I(75), -> I(75);]
+  reject  [ -> of information]
+  reject  [is the one that -> ]
+  reject  [model's -> model’s]
+  reject  [minimum, nor -> minimum or]
+  reject  [is -> does]
+  reject  [reversing -> reverse]
+  ACCEPT  [non-negativity -> nonnegativity]  (The factor (1 − I) in the equation for I)
+  ACCEPT  [non-decreasing -> nondecreasing]  (The factor (1 − I) in the equation for I)
+  ACCEPT  [means -> indicates]  (The factor (1 − I) in the equation for I)
+  reject  [smaller -> younger]
+  ACCEPT  [means -> indicates]  (The factor (1 − I) in the equation for I)
+  reject  [means -> indicates a]
+  reject  [quasi-steady-state -> quasisteady-state]
+  ACCEPT  [hours -> hours,]  (Equation (1) expresses glucose as produc)
+  reject  [roughly -> approximately]
+  ACCEPT  [rises -> increases]  (Equation (1) expresses glucose as produc)
+  ACCEPT  [falls -> decreases]  (Equation (1) expresses glucose as produc)
+  reject  [ -> decreasing]
+  reject  [the -> increasing]
+  reject  [makes -> causes the]
+  reject  [rise -> to increase]
+  reject  [ -> which is]
+  reject  [a -> the]
+  reject  [the -> ]
+  reject  [a power of -> which is related to]
+  reject  [reserve, -> reserve and is]
+  reject  [ -> which is]
+  reject  [inflammatory -> associated with inflammation]
+  reject  [senescence-associated -> senescence]
+  reject  [ -> which is]
+  reject  [dose dependence of lean-mass -> dose-dependent change in lean mass]
+  ACCEPT  [rises -> increases]  (Equation (4) relaxes muscle reserve to a)
+  reject  [that -> and]
+  reject  [Parameters of -> Model parameters. All]
+  reject  [model. All -> ]
+  reject  [was -> were]
+SKIP paragraph not found in the build: The untreated life course, from age 25 to 75 with initial state (I, M, ...
+  reject  [range, -> range]
+  reject  [ -> The]
+  reject  [ -> The]
+  reject  [ -> the]
+  reject  [it, -> this,]
+  ACCEPT  [rule -> rule,]  (An interior optimum exists when J(u) has)
+  reject  [3B) -> 3B),]
+  reject  [minimum u* -> minimum, u*,]
+  reject  [states -> indicates]
+  ACCEPT  [non-negative. -> nonnegative.]  (In the nominal case and with the adiposi)
+  ACCEPT  [1 -> 1,]  (In the nominal case and with the adiposi)
+  ACCEPT  [grows -> increases]  (In the nominal case and with the adiposi)
+  ACCEPT  [hence -> hence,]  (In the nominal case and with the adiposi)
+  reject  [quasi-static -> quasistatic]
+  reject  [information-loss -> information loss]
+  reject  [ -> the]
+SKIP paragraph not found in the build: The left side is a property of the organism's aging couplings; the rig ...
+  reject  [years, -> years and]
+  reject  [ -> are]
+  reject  [log-uniformly -> log uniformly]
+  reject  [quasi-random -> quasirandom]
+  reject  [ -> the]
+  ACCEPT  [about -> approximately]  (The base ensemble reproduces the samplin)
+  reject  [ -> of]
+  reject  [is -> being]
+  reject  [ -> the]
+  reject  [analysis, -> analysis and are]
+  ACCEPT  [rises -> increases]  (Without treatment, the model reproduces )
+  ACCEPT  [falls -> decreases]  (Without treatment, the model reproduces )
+  ACCEPT  [rises -> increases]  (Without treatment, the model reproduces )
+  ACCEPT  [rises -> increases]  (Without treatment, the model reproduces )
+  ACCEPT  [rises -> increases]  (Without treatment, the model reproduces )
+  ACCEPT  [rise -> increase]  (Without treatment, the model reproduces )
+  reject  [information -> Information]
+  reject  [the -> ]
+  reject  [circulating -> Circulating]
+  reject  [An -> Optimal]
+  reject  [optimal -> ]
+  reject  [at -> for]
+  reject  [changes -> changed]
+  ACCEPT  [non-monotonically -> nonmonotonically]  (A constant dose started at age 45 change)
+  ACCEPT  [falls -> decreases]  (A constant dose started at age 45 change)
+  ACCEPT  [rises -> increases]  (A constant dose started at age 45 change)
+  reject  [ -> the]
+  reject  [ -> a]
+  reject  [ -> a]
+  reject  [splits -> curve is split]
+  reject  [ -> contributes]
+  reject  [ -> contributes]
+  ACCEPT  [negative -> negative,]  (The slope of the dose–response splits in)
+  reject  [ -> is]
+  reject  [-0.108, so -> -0.108; thus,]
+  ACCEPT  [dose -> dose,]  (The slope of the dose–response splits in)
+  reject  [2, so -> 2; thus,]
+  ACCEPT  [0 -> 0,]  (The slope of the dose–response splits in)
+  reject  [information -> Information]
+  reject  [started -> starting]
+  reject  [optimum. -> optimum value.]
+  reject  [Metabolic -> The metabolic]
+  reject  [(8), -> (8) and are]
+  reject  [behave differently -> differ]
+  ACCEPT  [falls -> decreases]  (The three outcomes of Section 2.2 behave)
+  reject  [SIM, -> SIM]
+  reject  [it, -> it]
+  ACCEPT  [falls -> decreases]  (The three outcomes of Section 2.2 behave)
+  reject  [ -> which is]
+  ACCEPT  [larger. -> greater.]  (The three outcomes of Section 2.2 behave)
+  reject  [falls at once -> decreases immediately]
+  reject  [drop -> decrease]
+  reject  [responds -> occurs]
+  reject  [rate, -> rate]
+  ACCEPT  [dose -> dose,]  (The three outcomes of Section 2.2 behave)
+  reject  [ends -> is]
+  reject  [happens -> occurs]
+  ACCEPT  [fall -> decrease]  (The three outcomes of Section 2.2 behave)
+  reject  [ -> degree of]
+  reject  [ends -> is]
+  reject  [ -> a]
+  reject  [metabolic -> Metabolic]
+  reject  [ -> years]
+  reject  [along -> during]
+  reject  [drop -> decrease]
+  reject  [A stationarity condition -> Stationarity conditions]
+  ACCEPT  [falls -> decreases]  (Equation (11) gives the critical ratio ρ)
+  reject  [ -> a]
+  reject  [0.5 -> 0.5, respectively,]
+  reject  [then rises -> after which it increases]
+  reject  [quasi-static -> quasistatic]
+  ACCEPT  [about -> approximately]  (Equation (11) gives the critical ratio ρ)
+  reject  [ -> the]
+  ACCEPT  [rises -> increases]  (Across the base ensemble, the fraction o)
+  reject  [of -> on]
+  reject  [fraction -> Fraction]
+  ACCEPT  [grey -> gray]  (Fig. 5. Stationarity condition and muscl)
+  reject  [mark -> indicate]
+  reject  [ -> the]
+  reject  [gives -> is]
+  reject  [up to about -> approximately]
+  reject  [ -> the]
+  ACCEPT  [backfire -> backfire,]  (In the base ensemble, 57.3% of 40,000 pa)
+  reject  [gives -> is]
+  ACCEPT  [pseudo-random -> pseudorandom]  (In the base ensemble, 57.3% of 40,000 pa)
+  reject  [And it -> It]
+  reject  [years, -> years]
+  reject  [existence of an -> ]
+  reject  [distribution -> Distribution]
+  reject  [40,000 base -> 40,000-base]
+  reject  [fraction -> Fraction]
+  reject  [the -> ]
+  reject  [separates -> separate]
+  reject  [0) -> 0),]
+  reject  [0) -> 0), it is present]
+  ACCEPT  [cases -> cases,]  (Removing a single element of the model a)
+  ACCEPT  [0 -> 0,]  (Removing a single element of the model a)
+  reject  [ -> the]
+  reject  [I(75) -> I(75),]
+  reject  [0.16, -> 0.16]
+  reject  [ -> the]
+  reject  [ -> respectively,]
+  reject  [ensemble is -> ensembles are]
+  ACCEPT  [largest -> greatest]  (Table 6. Ablation of model elements. The)
+  ACCEPT  [point -> point,]  (The functional forms of the muscle respo)
+  reject  [0.15. -> 0.15, respectively.]
+  reject  [5% to 20% -> 5–20%,]
+  ACCEPT  [response -> response,]  (The functional forms of the muscle respo)
+  reject  [8% to 33%. -> 8–33%.]
+  reject  [ -> a]
+  reject  [lean-mass -> lean mass]
+  reject  [penalty, -> penalty]
+  ACCEPT  [point -> point,]  (The adiposity penalty of Eq. (6) is scal)
+  ACCEPT  [0.409 -> 0.409,]  (The adiposity penalty of Eq. (6) is scal)
+  reject  [gives -> is]
+  reject  [on -> to]
+  ACCEPT  [largest -> greatest]  (The adiposity penalty of Eq. (6) is scal)
+  reject  [ -> a]
+  reject  [fraction -> Fraction]
+  reject  [fraction -> Fraction]
+  ACCEPT  [largest -> greatest]  (Variance-based indices identify the para)
+  reject  [ -> and]
+  reject  [depth, -> depth;]
+  reject  [ -> and]
+  ACCEPT  [dose -> dose;]  (Variance-based indices identify the para)
+  reject  [ -> and]
+  reject  [ -> sum of the]
+  reject  [sum to -> is]
+  reject  [outputs, so -> outputs; thus,]
+  reject  [0.01). One-at-a-time -> 0.01, respectively). The one-at-a-time]
+  reject  [of -> in]
+  reject  [agrees: -> is in agreement:]
+  ACCEPT  [about -> approximately]  (Variance-based indices identify the para)
+  ACCEPT  [about -> approximately]  (Variance-based indices identify the para)
+  reject  [maps -> shows]
+  reject  [C), -> C)]
+  reject  [ -> noticeably]
+  reject  [region noticeably. -> region.]
+  reject  [glucose benefit, -> benefit of glucose,]
+  reject  [muscle-deficit -> Muscle-deficit]
+  reject  [muscle-deficit -> Muscle-deficit]
+  ACCEPT  [Grey: -> Gray:]  (Fig. 9. Optimal dose over the parameter )
+  reject  [co-interventions -> cointerventions]
+  reject  [co-intervention -> cointervention]
+  reject  [raises -> increases]
+  ACCEPT  [0.36 -> 0.36,]  (Reducing the muscle loss per unit dose, )
+  ACCEPT  [it -> it,]  (Reducing the muscle loss per unit dose, )
+  reject  [a co-intervention, -> cointervention,]
+  reject  [ -> the]
+  reject  [ -> that]
+  reject  [ -> is]
+  reject  [ -> that]
+  reject  [ -> is]
+  reject  [raises -> increases]
+  reject  [the -> a]
+  reject  [0.37, -> 0.37;]
+  reject  [information-loss -> information loss]
+  reject  [cohort, so that -> cohort; thus,]
+  reject  [depends, -> depends;]
+  reject  [sets, -> sets]
+  reject  [log-parameters -> log parameters]
+  reject  [establish, -> establish]
+  reject  [design, -> design]
+  reject  [cost, -> ]
+  reject  [ -> a]
+  reject  [dose, -> dose]
+  reject  [slowly, -> slowly]
+  reject  [cost, -> cost]
+  reject  [quasi-static limit -> quasistatic limit,]
+  reject  [about -> ]
+  ACCEPT  [model -> model,]  (The model gives a specific reading of th)
+  reject  [muscle-loss -> muscle loss]
+  reject  [ -> a]
+  reject  [moves up -> increases]
+  ACCEPT  [example -> example,]  (The model gives a specific reading of th)
+  reject  [co-intervention -> cointervention]
+  reject  [[42] -> [42],]
+  reject  [ -> by]
+  reject  [And an -> An]
+  reject  [optimum, -> optimum]
+  ACCEPT  [largest -> greatest]  (The adiposity result is a statement abou)
+  reject  [ -> a]
+  ACCEPT  [model -> model,]  (The adiposity result is a statement abou)
+  reject  [observable -> observations]
+  reject  [log-derivative -> log derivative]
+  reject  [of -> in]
+  reject  [variable, -> variable]
+  reject  [doses, -> doses]
+  reject  [a -> ]
+  reject  [ -> the]
+  reject  [[44] that -> [44], which]
+  reject  [ -> patients]
+  reject  [the -> ]
+  reject  [would supply the -> provide a]
+  reject  [dose, -> dose]
+  reject  [could -> can]
+  reject  [on -> in terms of]
+  reject  [the -> ]
+  reject  [a -> ]
+  reject  [to a -> ]
+  reject  [aging variable. -> aging.]
+  reject  [states -> shows]
+  reject  [observation -> observations]
+  reject  [tests -> test]
+  reject  [result -> results]
+  ACCEPT  [case -> case,]  (The model is falsifiable by a dose-rangi)
+  ACCEPT  [scalars -> scalars,]  (The model is low-dimensional and mean-fi)
+  reject  [variable, -> variable]
+  ACCEPT  [non-linear -> nonlinear]  (The model is low-dimensional and mean-fi)
+  ACCEPT  [illustrative -> illustrative,]  (The model is low-dimensional and mean-fi)
+  reject  [local, -> local]
+  ACCEPT  [constant -> constant,]  (The model is low-dimensional and mean-fi)
+  reject  [specified, so -> specified; thus,]
+  reject  [ -> is]
+  reject  [formulation, -> formulation]
+  reject  [the -> a]
+  reject  [supported, -> supported]
+  reject  [dynamical -> dynamic]
+  ACCEPT  [larger -> greater]  (In a minimal dynamical model of metaboli)
+  reject  [splits -> split]
+  reject  [ -> a]
+  reject  [about a quarter -> approximately one-quarter]
+  reject  [30. -> 30 years.]
+  reject  [10.5281/zenodo.24250662 -> 10.5281/zenodo.2425062]
+  reject  [ -> that there are]
+  reject  [writing – original -> writing—original]
+  reject  [writing – review -> writing—review]
+  reject  [decided -> determined]
+  ACCEPT  [script -> script,]  (The author used Claude (Anthropic) as a )
+  reject  [ -> For each equation,]
+  reject  [gives, for each equation, -> gives]
+  reject  [Reference -> The reference]
+REJECT whole paragraph (reference-list entry): [11] A.J. Cruz-Jentoft, G. Bahat, J. Bauer, Y. Boirie, O. Bruyère, T.  ...
+REJECT whole paragraph (reference-list entry): [36] J.A. Batsis, D.T. Villareal, Sarcopenic obesity in older adults:  ...
+REJECT whole paragraph (reference-list entry): [46] T.B.L. Kirkwood, Evolution of ageing, Nature 270 (1977) 301–304.  ...

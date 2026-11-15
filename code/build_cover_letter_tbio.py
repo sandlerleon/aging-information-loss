@@ -68,7 +68,7 @@ para("I submit the enclosed manuscript, “%s”, for consideration as an Origin
 para("Glucose-lowering agents that also suppress appetite lower lean mass as well as fat, and muscle is the main site of glucose disposal. Aging biomarkers describe the state of the "
      "organism but do not say at what dose the cost to muscle reserve outweighs the benefit of lower glucose. The manuscript asks that question in a minimal dynamical model: a latent "
      "information-loss variable, a muscle reserve and a storage compartment are coupled through circulating glucose, and one dose acts on glucose, muscle and storage. "
-     "The study is computational. No data were used and no parameter was fitted, and the paper states throughout which quantities are assumed, which are derived and which are only proposed.")
+     "The study is computational. No data were used and no parameter was fitted, and the paper states throughout which quantities are assumed, which are derived and which are only proposed. The dose is a dimensionless model quantity: the paper does not establish a therapeutic dosing threshold for any specific drug.")
 para("Main findings", bold=True, after=3)
 dn = DEC["nominal"]
 bullet("At the nominal parameters, information loss at age 75 is U-shaped in dose with a minimum at u* = %.2f. The slope of the dose–response splits exactly into a glucose, a storage and a muscle "
@@ -98,5 +98,9 @@ para("Yours sincerely,", after=18)
 para("Leon Sandler")
 os.makedirs(OUT, exist_ok=True)
 out = os.path.join(OUT, "Cover_Letter_TBIO.docx")
+from docx.oxml.ns import qn
+_z = doc.settings.element.find(qn("w:zoom"))
+if _z is not None and _z.get(qn("w:percent")) is None:
+    _z.set(qn("w:percent"), "100")
 doc.save(out)
 print("saved", out)

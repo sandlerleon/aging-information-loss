@@ -114,7 +114,14 @@ for i, b in enumerate(B):                                    # substitute the nu
         B[i] = (b[0], t)
 
 if __name__ == "__main__":
+    import merge_rubriq_tbio as MR
     os.makedirs(OUT, exist_ok=True)
-    c = build(os.path.join(OUT, "Aging_TBIO_Manuscript.docx"))
-    build(os.path.join(OUT, "Aging_TBIO_Manuscript_no_author_block.docx"), author=False)
+    tmp1, tmp2 = os.path.join(OUT, "_build.docx"), os.path.join(OUT, "_build_no_author.docx")
+    c = build(tmp1)
+    build(tmp2, author=False)
+    # safe part of the Rubriq language edit (see merge_rubriq_tbio.py and manuscript/rubriq/merge_report.txt)
+    MR.main(tmp1, os.path.join(OUT, "Aging_TBIO_Manuscript.docx"), os.path.join(OUT, "rubriq", "merge_report.txt"))
+    MR.main(tmp2, os.path.join(OUT, "Aging_TBIO_Manuscript_no_author_block.docx"), None)
+    os.remove(tmp1)
+    os.remove(tmp2)
     print("built; %d references" % len(c.order))
