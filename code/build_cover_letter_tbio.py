@@ -92,7 +92,7 @@ para("An earlier version of this work was submitted to Biological Theory and was
      "assumed, derived and proposed quantities are tabulated; the interior optimum is derived and decomposed analytically; and sensitivity to the sampling prior, the treatment horizon, "
      "the functional forms, the removal of each model element and the adiposity penalty is reported, including the cases in which the optimum disappears. The manuscript has not been published "
      "and is not under consideration by any other journal. The use of AI-assisted tools is described in the manuscript. The code, results and scripts that regenerate every number are public "
-     "(https://github.com/sandlerleon/aging-information-loss). I declare no competing interests and no funding.")
+     "(https://github.com/sandlerleon/aging-information-loss, archived on Zenodo, version 1.0.0, DOI 10.5281/zenodo.24250663). I declare no competing interests and no funding.")
 para("Thank you for considering this submission.")
 para("Yours sincerely,", after=18)
 para("Leon Sandler")

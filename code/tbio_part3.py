@@ -44,7 +44,7 @@ add(("p", r"In a minimal dynamical model of metabolic aging, a glucose-lowering 
 
 # ============================================================================================ declarations
 add(("h1", "Data availability"))
-add(("p0", r"No human or animal data were used. The Python implementation of the model, the analysis scripts, the random seeds, the generated results, the figure generators and the scripts that build this manuscript are openly available at https://github.com/sandlerleon/aging-information-loss. Running analysis.py regenerates every number and table of the paper, figures.py regenerates the figures, verify.py executes the checks of Table B1 and verify_refs.py checks the references against Crossref."))
+add(("p0", r"No human or animal data were used. The Python implementation of the model, the analysis scripts, the random seeds, the generated results, the figure generators and the scripts that build this manuscript are openly available at https://github.com/sandlerleon/aging-information-loss and archived on Zenodo (version 1.0.0, https://doi.org/10.5281/zenodo.24250663; concept DOI 10.5281/zenodo.24250662 for all versions). Running analysis.py regenerates every number and table of the paper, figures.py regenerates the figures, verify.py executes the checks of Table B1 and verify_refs.py checks the references against Crossref."))
 add(("h1", "Declaration of competing interests"))
 add(("p0", "The author declares no competing interests."))
 add(("h1", "Funding"))
